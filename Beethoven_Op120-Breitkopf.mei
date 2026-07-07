@@ -1318,7 +1318,7 @@
                   </section>
                   <section xml:id="Var-I">
                      <expansion xml:id="expansion-Var-I-default" plist="#Var-I-A #Var-I-A #Var-I-B #Var-I-B1 #Var-I-B #Var-I-B2"/>
-                     <expansion xml:id="expansion-Var-I-minimal" plist="#Var-I-A  #Var-I-B #Var-I-B2"/>
+                     <expansion xml:id="expansion-Var-I-minimal" plist="#Var-I-A #Var-I-B #Var-I-B2"/>
                      <section xml:id="Var-I-A">
                         <scoreDef xml:id="scoredef-0000001846085467" meter.count="4" meter.sym="common" meter.unit="4"/>
                         <measure xml:id="measure-0000000854926286" left="rptstart" metcon="false" n="32">
