@@ -25,7 +25,7 @@
                <name xml:id="name-0000001962172014">Verovio</name>
                <p xml:id="p-0000001466155966">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="amoradh" enddate="2025-08-26T13:33:41" startdate="2023-08-14T16:51:29" version="1.2.8">
+            <application xml:id="amoradh" enddate="2026-07-08T12:15:00" startdate="2023-08-14T16:51:29" version="1.4.1">
                <name xml:id="n5p59u8">mei-friend</name>
                <p xml:id="p43m091">First edit by mei-friend 0.10.2, 12 August 2023.</p>
             </application>
@@ -8363,6 +8363,12 @@
                                     <note xml:id="note-0000000834441212" oct="4" pname="e"/>
                                     <note xml:id="note-0000000777352291" oct="4" pname="g"/>
                                  </chord>
+                                 <chord xml:id="chord-0000001985941334" dur="4" stem.dir="up">
+                                    <note xml:id="note-0000000633489759" oct="3" pname="g" staff="1"/>
+                                    <note xml:id="note-0000000980216656" oct="3" pname="b" staff="1"/>
+                                    <note xml:id="note-0000001785269434" oct="4" pname="e" staff="1"/>
+                                    <note xml:id="note-0000001262639442" oct="4" pname="g" staff="1"/>
+                                 </chord>
                               </layer>
                            </staff>
                            <staff xml:id="staff-0000001344655814" n="2">
@@ -8370,12 +8376,6 @@
                                  <chord xml:id="chord-0000001243166839" dur="2" stem.dir="up">
                                     <note xml:id="note-0000001261450689" oct="3" pname="g"/>
                                     <note xml:id="note-0000001036661410" oct="3" pname="b"/>
-                                 </chord>
-                                 <chord xml:id="chord-0000001985941334" dur="4" stem.dir="up">
-                                    <note xml:id="note-0000000633489759" oct="3" pname="g" staff="1"/>
-                                    <note xml:id="note-0000000980216656" oct="3" pname="b" staff="1"/>
-                                    <note xml:id="note-0000001785269434" oct="4" pname="e" staff="1"/>
-                                    <note xml:id="note-0000001262639442" oct="4" pname="g" staff="1"/>
                                  </chord>
                               </layer>
                               <layer xml:id="layer-0000001816930136" n="5">
@@ -14715,7 +14715,7 @@
                            <slur xml:id="slur-0000000888512470" curvedir="above" endid="#note-0000000088951675" startid="#note-0000001161335397"/>
                            <slur xml:id="slur-0000001539808353" curvedir="below" endid="#note-0000001475683027" startid="#note-0000002121765084"/>
                         </measure>
-                        <measure xml:id="measure-0000000608163605" n="335" right="rptend">
+                        <measure xml:id="measure-0000000608163605" metcon="false" n="335" right="rptend">
                            <staff xml:id="staff-0000000079751318" n="1">
                               <layer xml:id="layer-0000002085683965" n="1">
                                  <chord xml:id="chord-0000001120490300" dur="4" stem.dir="up">
@@ -27051,6 +27051,16 @@
                      <expansion xml:id="expansion-Var-XVIII-default" plist="#Var-XVIII-A #Var-XVIII-A #Var-XVIII-B #Var-XVIII-B"/>
                      <expansion xml:id="expansion-Var-XVIII-minimal" plist="#Var-XVIII-A #Var-XVIII-B"/>
                      <section xml:id="Var-XVIII-A">
+                        <scoreDef xml:id="s4vh4s31">
+                           <staffGrp xml:id="ssnsl23">
+                              <staffDef xml:id="s0t1g8m1" n="1">
+                                 <meterSig xml:id="mnemx1e" count="3" unit="4"/>
+                              </staffDef>
+                              <staffDef xml:id="s7qhpgt2" n="2">
+                                 <meterSig xml:id="ma6d6s4" count="3" unit="4"/>
+                              </staffDef>
+                           </staffGrp>
+                        </scoreDef>
                         <measure xml:id="measure-0000001979159345" left="rptstart" metcon="false" n="589">
                            <staff xml:id="staff-0000001240179517" n="1">
                               <layer xml:id="layer-0000001139587009" n="1">
