@@ -49141,7 +49141,7 @@
                            <layer xml:id="layer-0000000769114471" n="6">
                               <chord xml:id="chord-0000001335645745" dur="4" stem.dir="down">
                                  <note xml:id="note-0000002005963513" accid.ges="f" oct="4" pname="e"/>
-                                 <note xml:id="note-0000001163349479" oct="4" pname="g"/>
+                                 <note xml:id="note-0000001163349479" accid.ges="f" oct="4" pname="g"/>
                               </chord>
                               <chord xml:id="chord-0000000089769725" dur="4" stem.dir="down">
                                  <note xml:id="note-0000001289291164" oct="4" pname="d">
