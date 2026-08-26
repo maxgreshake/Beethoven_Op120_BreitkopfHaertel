@@ -53734,7 +53734,7 @@
                            <slur xml:id="slur-0000000266641495" curvedir="above" endid="#chord-0000001698236255" startid="#chord-0000001398863707"/>
                            <tie xml:id="tie-0000000442878363" endid="#note-0000000099243682" startid="#note-0000001723485524"/>
                            <tie xml:id="tie-0000000562101960" endid="#note-0000001486844589" startid="#note-0000000792567237"/>
-                           <tie xml:id="tie-0000000510056694" curvedir="below" endid="#note-0000001155407169" startid="#note-0000001577913936"/>
+                           <slur xml:id="tie-0000000510056694" curvedir="below" endid="#note-0000001155407169" startid="#note-0000001577913936"/>
                         </measure>
                      </ending>
                      <ending xml:id="Var-XXXIII-A2" lendsym="angledown" n="2.">
@@ -53804,7 +53804,7 @@
                            <slur xml:id="slur-0000001399027638" curvedir="above" endid="#chord-0000000548957377" startid="#chord-0000000382326793"/>
                            <tie xml:id="tie-0000001061760058" endid="#note-0000001424660338" startid="#note-0000000351052343"/>
                            <tie xml:id="tie-0000000052714447" endid="#note-0000001159051753" startid="#note-0000002095325470"/>
-                           <tie xml:id="tie-0000000126783900" curvedir="below" endid="#note-0000000829284218" startid="#note-0000000792830436"/>
+                           <slur xml:id="tie-0000000126783900" curvedir="below" endid="#note-0000000829284218" startid="#note-0000000792830436"/>
                            <slur xml:id="slur-0000000261446197" curvedir="above" endid="#note-0000002074061588" startid="#note-0000001503397716"/>
                         </measure>
                      </ending>
