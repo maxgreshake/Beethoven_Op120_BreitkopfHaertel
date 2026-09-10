@@ -11,6 +11,8 @@
             <respStmt xml:id="r1uz9ss1">
                <persName xml:id="p9yaq7c1" role="composer">Ludwig van Beethoven</persName>
                <persName xml:id="pjbcr7z1" enddate="2020-04-22T17:23:30" role="encoder">Werner Goebl</persName>
+               <persName xml:id="rsenc10092026" role="encoder">Richard Sänger</persName>
+               <persName xml:id="mgenc10092026" role="encoder">Maximilian Greshake</persName>
             </respStmt>
          </titleStmt>
          <pubStmt xml:id="pxtnacq1">
@@ -41,6 +43,12 @@
                <p xml:id="pqvtoq51">Converted to MEI version 5.0 using mei40To50.xsl, version 1.1</p>
             </changeDesc>
             <date xml:id="d5drtd4" isodate="2025-08-26"/>
+         </change>
+         <change xml:id="crsmg10092026" n="2" resp="#rsenc10092026 #mgenc10092026">
+            <changeDesc xml:id="cdrsmg10092026">
+               <p xml:id="fiuff3feief3if3fh9786">fixed @left="rptstart"</p>
+            </changeDesc>
+            <date xml:id="d5drtd09" isodate="2026-09-10"/>
          </change>
       </revisionDesc>
    </meiHead>
@@ -1321,7 +1329,7 @@
                      <expansion xml:id="expansion-Var-I-minimal" plist="#Var-I-A #Var-I-B #Var-I-B2"/>
                      <section xml:id="Var-I-A">
                         <scoreDef xml:id="scoredef-0000001846085467" meter.count="4" meter.sym="common" meter.unit="4"/>
-                        <measure xml:id="measure-0000000854926286" left="rptstart" metcon="false" n="32">
+                        <measure xml:id="measure-0000000854926286" metcon="false" n="32">
                            <staff xml:id="staff-0000000719500587" n="1">
                               <layer xml:id="layer-0000000631693894" n="1">
                                  <chord xml:id="chord-0000001289142407" dur="8" stem.dir="up">
@@ -4574,7 +4582,7 @@
                      <expansion xml:id="expansion-Var-III-minimal" plist="#Var-III-A #Var-III-B #Var-III-B2"/>
                      <section xml:id="Var-III-A">
                         <scoreDef xml:id="scoredef-0000001989170521" meter.count="3" meter.unit="4"/>
-                        <measure xml:id="measure-0000000271511326" left="rptstart" metcon="false" n="96">
+                        <measure xml:id="measure-0000000271511326" metcon="false" n="96">
                            <staff xml:id="staff-0000001923571349" n="1">
                               <layer xml:id="layer-0000000461484229" n="1">
                                  <beam xml:id="beam-0000001601987486">
@@ -5758,7 +5766,7 @@
                      <expansion xml:id="expansion-Var-IV-minimal" plist="#Var-IV-A #Var-IV-B"/>
                      <section xml:id="Var-IV-A">
                         <scoreDef xml:id="scoredef-0000001175821111" meter.count="3" meter.unit="4"/>
-                        <measure xml:id="measure-0000001691165344" left="rptstart" metcon="false" n="128">
+                        <measure xml:id="measure-0000001691165344" metcon="false" n="128">
                            <staff xml:id="staff-0000001835320779" n="1">
                               <layer xml:id="layer-0000000749367266" n="1">
                                  <beam xml:id="beam-0000001771533654">
@@ -6975,7 +6983,7 @@
                      <expansion xml:id="expansion-Var-V-minimal" plist="#Var-V-A #Var-V-B"/>
                      <section xml:id="Var-V-A">
                         <scoreDef xml:id="scoredef-0000001398521901" meter.count="3" meter.unit="4"/>
-                        <measure xml:id="measure-0000001488994445" left="rptstart" metcon="false" n="159">
+                        <measure xml:id="measure-0000001488994445" metcon="false" n="159">
                            <staff xml:id="staff-0000001716228357" n="1">
                               <layer xml:id="layer-0000001409147027" n="1">
                                  <rest xml:id="rest-0000001084423673" dur="4"/>
@@ -13072,7 +13080,7 @@
                      <expansion xml:id="expansion-Var-IX-minimal" plist="#Var-IX-A #Var-IX-B"/>
                      <section xml:id="Var-IX-A">
                         <scoreDef xml:id="scoredef-0000001392904136" keysig="3f" meter.count="4" meter.sym="common" meter.unit="4"/>
-                        <measure xml:id="measure-0000000602194741" left="rptstart" metcon="false" n="303">
+                        <measure xml:id="measure-0000000602194741" metcon="false" n="303">
                            <staff xml:id="staff-0000000375830162" n="1">
                               <layer xml:id="layer-0000000540289060" n="1">
                                  <rest xml:id="rest-0000001077371904" dur="4"/>
@@ -21823,7 +21831,7 @@
                         <scoreDef xml:id="scoredef-0000000871365334">
                            <meterSig xml:id="msig-0000001346179645" count="4" sym="common" unit="4"/>
                         </scoreDef>
-                        <measure xml:id="measure-0000001373335905" left="rptstart" metcon="false" n="509">
+                        <measure xml:id="measure-0000001373335905" metcon="false" n="509">
                            <staff xml:id="staff-0000000585986147" n="1">
                               <layer xml:id="layer-0000001620873792" n="1">
                                  <beam xml:id="beam-0000001195759949">
@@ -23287,7 +23295,7 @@
                         <scoreDef xml:id="scoredef-0000001160976389">
                            <meterSig xml:id="msig-0000000493753281" count="2" unit="4"/>
                         </scoreDef>
-                        <measure xml:id="measure-0000000569924572" left="rptstart" metcon="false" n="525">
+                        <measure xml:id="measure-0000000569924572" metcon="false" n="525">
                            <staff xml:id="staff-0000000767874645" n="1">
                               <layer xml:id="layer-0000001308436713" n="1">
                                  <beam xml:id="beam-0000000663290111">
@@ -27061,7 +27069,7 @@
                               </staffDef>
                            </staffGrp>
                         </scoreDef>
-                        <measure xml:id="measure-0000001979159345" left="rptstart" metcon="false" n="589">
+                        <measure xml:id="measure-0000001979159345" metcon="false" n="589">
                            <staff xml:id="staff-0000001240179517" n="1">
                               <layer xml:id="layer-0000001139587009" n="1">
                                  <beam xml:id="beam-0000000366178301">
@@ -30617,7 +30625,7 @@
                         <scoreDef xml:id="scoredef-0000000744714126">
                            <meterSig xml:id="msig-0000001160333537" count="4" sym="common" unit="4"/>
                         </scoreDef>
-                        <measure xml:id="measure-0000001315647053" left="rptstart" metcon="false" n="687">
+                        <measure xml:id="measure-0000001315647053" metcon="false" n="687">
                            <staff xml:id="staff-0000001742413459" n="1">
                               <layer xml:id="layer-0000000524797195" n="1">
                                  <note xml:id="note-0000000181877479" dur="4" oct="6" pname="c" stem.dir="down"/>
@@ -33156,7 +33164,7 @@
                         <scoreDef xml:id="scoredef-0000000067166893">
                            <meterSig xml:id="msig-0000001253197294" count="4" sym="common" unit="4"/>
                         </scoreDef>
-                        <measure xml:id="measure-0000001902871067" left="rptstart" n="730">
+                        <measure xml:id="measure-0000001902871067" n="730">
                            <staff xml:id="staff-0000000215688953" n="1">
                               <layer xml:id="layer-0000000382549143" n="1">
                                  <chord xml:id="chord-0000001457196995" dots="1" dur="4" stem.dir="down">
@@ -37442,7 +37450,7 @@
                         <scoreDef xml:id="scoredef-0000001170264119">
                            <meterSig xml:id="msig-0000001142984621" count="3" unit="8"/>
                         </scoreDef>
-                        <measure xml:id="measure-0000000885264424" left="rptstart" metcon="false" n="809">
+                        <measure xml:id="measure-0000000885264424" metcon="false" n="809">
                            <staff xml:id="staff-0000001597562371" n="1">
                               <layer xml:id="layer-0000000612956817" n="1">
                                  <beam xml:id="beam-0000002021563272">
@@ -38826,7 +38834,7 @@
                      <expansion xml:id="expansion-Var-XXVII-default" plist="#Var-XXVII-A #Var-XXVII-A1 #Var-XXVII-A #Var-XXVII-A2 #Var-XXVII-B #Var-XXVII-B1 #Var-XXVII-B #Var-XXVII-B2"/>
                      <expansion xml:id="expansion-Var-XXVII-minimal" plist="#Var-XXVII-A #Var-XXVII-A2 #Var-XXVII-B #Var-XXVII-B2"/>
                      <section xml:id="Var-XXVII-A">
-                        <measure xml:id="measure-0000002026506355" left="rptstart" metcon="false" n="841">
+                        <measure xml:id="measure-0000002026506355" metcon="false" n="841">
                            <staff xml:id="staff-0000000546276077" n="1">
                               <layer xml:id="layer-0000001742947294" n="1">
                                  <beam xml:id="beam-0000000455228726">
@@ -40695,7 +40703,7 @@
                         <scoreDef xml:id="scoredef-0000001562766111">
                            <meterSig xml:id="msig-0000001508874624" count="2" unit="4"/>
                         </scoreDef>
-                        <measure xml:id="measure-0000001513853395" left="rptstart" metcon="false" n="873">
+                        <measure xml:id="measure-0000001513853395" metcon="false" n="873">
                            <staff xml:id="staff-0000000149000241" n="1">
                               <layer xml:id="layer-0000000509663921" n="1">
                                  <beam xml:id="beam-0000001298092255">
