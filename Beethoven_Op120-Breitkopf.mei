@@ -11,6 +11,8 @@
             <respStmt xml:id="r1uz9ss1">
                <persName xml:id="p9yaq7c1" role="composer">Ludwig van Beethoven</persName>
                <persName xml:id="pjbcr7z1" enddate="2020-04-22T17:23:30" role="encoder">Werner Goebl</persName>
+               <persName xml:id="rsenc10092026" role="encoder">Richard Sänger</persName>
+               <persName xml:id="mgenc10092026" role="encoder">Maximilian Greshake</persName>
             </respStmt>
          </titleStmt>
          <pubStmt xml:id="pxtnacq1">
@@ -41,6 +43,12 @@
                <p xml:id="pqvtoq51">Converted to MEI version 5.0 using mei40To50.xsl, version 1.1</p>
             </changeDesc>
             <date xml:id="d5drtd4" isodate="2025-08-26"/>
+         </change>
+         <change xml:id="crsmg10092026" n="2" resp="#rsenc10092026 #mgenc10092026">
+            <changeDesc xml:id="cdrsmg10092026">
+               <p xml:id="fiuff3feief3if3fh9786">fixed @left="rptstart"</p>
+            </changeDesc>
+            <date xml:id="d5drtd09" isodate="2026-09-10"/>
          </change>
       </revisionDesc>
    </meiHead>
