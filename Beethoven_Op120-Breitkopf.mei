@@ -7827,7 +7827,7 @@
                                        <note xml:id="note-0000000124372871" oct="4" pname="b">
                                           <accid xml:id="accid-0000000833254366" accid="f"/>
                                        </note>
-                                       <note xml:id="note-0000000765267275" accid.ges="f" oct="5" pname="d">
+                                       <note xml:id="note-0000000765267275" oct="5" pname="d">
                                           <accid xml:id="f715fd12-888d-43f8-a299-1dac4cd73d87" accid="f"/>
                                        </note>
                                     </chord>
