@@ -3497,7 +3497,7 @@
                                     <chord xml:id="chord-0000000803286205" dur="8" stem.dir="down">
                                        <note xml:id="note-0000000036590921" oct="3" pname="d"/>
                                        <note xml:id="note-0000001749042393" oct="3" pname="f">
-                                          <accid xml:id="a7a70860-529e-49bd-a9ca-d269b2523e3b" accid=""/>
+                                          <accid xml:id="a7a70860-529e-49bd-a9ca-d269b2523e3b" accid="n"/>
                                        </note>
                                     </chord>
                                  </beam>
