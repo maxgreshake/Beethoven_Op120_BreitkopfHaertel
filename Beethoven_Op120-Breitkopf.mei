@@ -23965,7 +23965,7 @@
                         <measure xml:id="measure-0000001666986095" n="542">
                            <staff xml:id="staff-0000001960887371" n="1">
                               <layer xml:id="layer-0000001243840190" n="1">
-                                 <chord xml:id="chord-0000000850780721" dur="4" stem.dir="down">
+                                 <chord xml:id="chord-0000000850780721" dur="4" stem.dir="up">
                                     <artic xml:id="artic-0000001125456121" artic="stacc"/>
                                     <note xml:id="note-0000001616253432" oct="4" pname="g"/>
                                     <note xml:id="note-0000000505062871" oct="5" pname="d"/>
