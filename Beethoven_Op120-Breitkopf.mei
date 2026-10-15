@@ -34805,7 +34805,7 @@
                               <layer xml:id="layer-0000000693827880" n="1">
                                  <rest xml:id="rest-0000002049120320" dur="4" oloc="5" ploc="g"/>
                                  <note xml:id="note-0000000086665495" dur="4" oct="5" pname="g" stem.dir="up"/>
-                                 <note xml:id="note-0000001890543405" dur="4" oct="5" pname="d" stem.dir="up"/>
+                                 <note xml:id="note-0000001890543405" dur="4" oct="5" pname="c" stem.dir="up"/>
                               </layer>
                            </staff>
                            <staff xml:id="staff-0000000885198988" n="2">
@@ -35218,7 +35218,7 @@
                                     <accid xml:id="accid-0000000597123897" accid="f"/>
                                  </note>
                                  <note xml:id="note-0000001891769376" dots="1" dur="4" oct="3" pname="d" stem.dir="down"/>
-                                 <note xml:id="note-0000001160358401" dur="8" oct="3" pname="c" stem.dir="up"/>
+                                 <note xml:id="note-0000001160358401" dur="8" oct="3" pname="c" stem.dir="down"/>
                               </layer>
                            </staff>
                            <tie xml:id="tie-0000002021929052" endid="#note-0000001639659452" startid="#note-0000000293752437"/>
@@ -35710,7 +35710,9 @@
                            </staff>
                            <staff xml:id="staff-0000001904850503" n="2">
                               <layer xml:id="layer-0000001204670397" n="5">
-                                 <note xml:id="note-0000001817518159" dur="4" oct="4" pname="f" stem.dir="up"/>
+                                 <note xml:id="note-0000001817518159" dur="4" oct="4" pname="f" stem.dir="up">
+                                 	<accid xml:id="zzztbdae-a74d-41e1-9a41-9f803c1a6fb3" accid="s"/>
+                                 </note>
                                  <beam xml:id="beam-0000002108699088">
                                     <note xml:id="note-0000001546775713" dur="8" oct="4" pname="e" stem.dir="up"/>
                                     <note xml:id="note-0000000405003342" dur="8" oct="3" pname="a" stem.dir="up"/>
