@@ -25947,8 +25947,8 @@
                                  </chord>
                                  <beam xml:id="beam-0000000410687331">
                                     <chord xml:id="chord-0000000296697178" dur="8" stem.dir="up">
-                                       <note xml:id="note-0000000409530659" oct="2" pname="c"/>
-                                       <note xml:id="note-0000000132442312" oct="3" pname="c"/>
+                                       <note xml:id="note-0000000409530659" oct="2" pname="d"/>
+                                       <note xml:id="note-0000000132442312" oct="3" pname="d"/>
                                     </chord>
                                     <chord xml:id="chord-0000001668695992" dur="8" stem.dir="up">
                                        <note xml:id="note-0000001164879492" oct="1" pname="g"/>
@@ -26178,7 +26178,7 @@
                                  <beam xml:id="beam-0000001802842498">
                                     <note xml:id="note-0000001527088363" dur="16" oct="4" pname="a" stem.dir="down"/>
                                     <note xml:id="note-0000001197051644" dur="16" oct="5" pname="g" stem.dir="down"/>
-                                    <note xml:id="note-0000001220175612" dur="16" oct="5" pname="c" stem.dir="down"/>
+                                    <note xml:id="note-0000001220175612" dur="16" oct="5" pname="d" stem.dir="down"/>
                                     <note xml:id="note-0000001170165681" dur="16" oct="5" pname="f" stem.dir="down">
                                        <accid xml:id="accid-0000000319361341" accid="s"/>
                                     </note>
@@ -26980,7 +26980,6 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000000739287823" place="below" staff="1" tstamp="4.000000" vgrp="40">f</dynam>
                            <dynam xml:id="dynam-0000000687864076" place="below" startid="#chord-0000001660931375">sf</dynam>
                         </measure>
                      </section>
@@ -26992,7 +26991,7 @@
                                     <note xml:id="note-0000000010409652" dur="16" oct="5" pname="e" stem.dir="down">
                                        <accid xml:id="accid-0000001008845757" accid="f"/>
                                     </note>
-                                    <note xml:id="note-0000001287244834" dur="16" oct="5" pname="g" stem.dir="down">
+                                    <note xml:id="note-0000001287244834" dur="16" oct="5" pname="f" stem.dir="down">
                                        <accid xml:id="accid-0000000973665160" accid="s"/>
                                     </note>
                                     <note xml:id="note-0000000564953980" dur="16" oct="6" pname="d" stem.dir="down"/>
@@ -27060,7 +27059,7 @@
                                     <note xml:id="note-0000001159593940" dur="16" oct="5" pname="e" stem.dir="down">
                                        <accid xml:id="accid-0000000881253055" accid="f"/>
                                     </note>
-                                    <note xml:id="note-0000000025382026" dur="16" oct="5" pname="g" stem.dir="down">
+                                    <note xml:id="note-0000000025382026" dur="16" oct="5" pname="f" stem.dir="down">
                                        <accid xml:id="accid-0000001393948876" accid="s"/>
                                     </note>
                                     <note xml:id="note-0000001199653809" dur="16" oct="6" pname="d" stem.dir="down"/>
