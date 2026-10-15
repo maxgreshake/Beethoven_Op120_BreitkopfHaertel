@@ -36950,7 +36950,7 @@
                                     <note xml:id="note-0000002068769306" dur="16" oct="3" pname="c" stem.dir="up"/>
                                     <note xml:id="note-0000000897500614" accid.ges="f" dur="16" oct="2" pname="b" stem.dir="up"/>
                                     <note xml:id="note-0000001719527165" dur="16" oct="2" pname="g" stem.dir="up"/>
-                                    <note xml:id="note-0000000095844095" accid.ges="f" dur="16" oct="2" pname="b" stem.dir="up"/>
+                                    <note xml:id="note-0000000095844095" dur="16" oct="3" pname="c" stem.dir="up"/>
                                  </beam>
                               </layer>
                            </staff>
