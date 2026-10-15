@@ -30296,7 +30296,7 @@
                         </staff>
                         <staff xml:id="staff-0000001912225474" n="2">
                            <layer xml:id="layer-0000000173753459" n="5">
-                              <chord xml:id="chord-0000000049607767" dots="1" dur="2" stem.dir="down">
+                              <chord xml:id="chord-0000000049607767" dots="1" dur="2" stem.dir="up">
                                  <note xml:id="note-0000001841203697" oct="2" pname="b">
                                     <accid xml:id="accid-0000000499550549" accid="f"/>
                                  </note>
@@ -30304,7 +30304,7 @@
                                     <accid xml:id="accid-0000000716667995" accid="s"/>
                                  </note>
                               </chord>
-                              <chord xml:id="chord-0000000996254870" dots="1" dur="2" stem.dir="down">
+                              <chord xml:id="chord-0000000996254870" dots="1" dur="2" stem.dir="up">
                                  <note xml:id="note-0000000769311505" accid.ges="f" oct="2" pname="b"/>
                                  <note xml:id="note-0000000328769100" oct="3" pname="g"/>
                               </chord>
@@ -30317,7 +30317,7 @@
                               <chord xml:id="chord-0000000605228523" dots="1" dur="2" stem.dir="up">
                                  <note xml:id="note-0000001281577770" oct="4" pname="g"/>
                                  <note xml:id="note-0000000939632536" oct="5" pname="d">
-                                    <accid xml:id="accid-0000000222898758" accid="s"/>
+                                    <accid xml:id="accid-0000000222898758" accid="ns"/>
                                  </note>
                               </chord>
                               <chord xml:id="chord-0000000138160430" dur="2" stem.dir="up">
@@ -30519,9 +30519,7 @@
                               </chord>
                               <chord xml:id="chord-0000001183660045" dur="4" stem.dir="up">
                                  <note xml:id="note-0000002008000706" oct="2" pname="d"/>
-                                 <note xml:id="note-0000000684033122" oct="3" pname="d">
-                                    <accid xml:id="accid-0000000851701511" accid="f"/>
-                                 </note>
+                                 <note xml:id="note-0000000684033122" oct="3" pname="d"/>
                               </chord>
                            </layer>
                         </staff>
