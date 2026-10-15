@@ -32853,13 +32853,13 @@
                                     <accid xml:id="accid-0000000755818865" accid="n"/>
                                     <artic xml:id="artic-0000000741900842" artic="stacc"/>
                                  </note>
-                                 <note xml:id="note-0000001818702134" dur="4" oct="2" pname="b" stem.dir="down">
+                                 <note xml:id="note-0000001818702134" dur="4" oct="2" pname="b" stem.dir="up">
                                     <artic xml:id="artic-0000002076104975" artic="stacc"/>
                                  </note>
                                  <note xml:id="note-0000001873322839" dur="4" oct="3" pname="e" stem.dir="down">
                                     <artic xml:id="artic-0000000926568403" artic="stacc"/>
                                  </note>
-                                 <note xml:id="note-0000001140278792" dur="4" oct="2" pname="b" stem.dir="down">
+                                 <note xml:id="note-0000001140278792" dur="4" oct="2" pname="b" stem.dir="up">
                                     <artic xml:id="artic-0000000243348688" artic="stacc"/>
                                  </note>
                               </layer>
