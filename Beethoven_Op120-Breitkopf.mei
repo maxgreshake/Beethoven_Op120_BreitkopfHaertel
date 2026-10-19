@@ -41189,7 +41189,9 @@
                                        </note>
                                     </chord>
                                     <chord xml:id="chord-0000000459611724" dur="8" stem.dir="up">
-                                       <note xml:id="note-0000001171018801" oct="4" pname="f"/>
+                                       <note xml:id="note-0000001171018801" oct="4" pname="f">
+                                          <accid xml:id="cc8cd09b-a75c-4ed8-b7de-f5dff89664e7" accid="n"/>
+                                       </note>
                                        <note xml:id="note-0000000390527186" oct="4" pname="a"/>
                                     </chord>
                                  </beam>
@@ -41494,7 +41496,9 @@
                                     <chord xml:id="chord-0000001838358386" dur="8" stem.dir="down">
                                        <note xml:id="note-0000001725986384" oct="5" pname="d"/>
                                        <note xml:id="note-0000001743585502" oct="5" pname="g"/>
-                                       <note xml:id="note-0000000226028741" oct="5" pname="b"/>
+                                       <note xml:id="note-0000000226028741" oct="5" pname="b">
+                                          <accid xml:id="ee8cd09b-a75c-4ed8-b7de-f5dff89664e7" accid="n"/>
+                                       </note>
                                     </chord>
                                     <chord xml:id="chord-0000002042132493" dur="8" stem.dir="down">
                                        <note xml:id="note-0000000589287370" oct="5" pname="c"/>
@@ -41886,6 +41890,7 @@
                            <staff xml:id="staff-0000000104787691" n="2">
                               <layer xml:id="layer-0000000805963401" n="5">
                                  <rest xml:id="rest-0000001834889069" dur="4"/>
+                                 <clef xml:id="e5c21a14-de1e-4642-910c-3980e115ebf0" shape="G" line="2"/>
                                  <beam xml:id="beam-0000000398838550">
                                     <chord xml:id="chord-0000000546784729" dur="8" stem.dir="up">
                                        <note xml:id="note-0000001115113420" oct="4" pname="d">
@@ -42014,13 +42019,13 @@
                                     </chord>
                                  </beam>
                                  <beam xml:id="beam-0000002049420487">
-                                    <chord xml:id="chord-0000000053145435" dur="8" stem.dir="up">
+                                    <chord xml:id="chord-0000000053145435" dur="8" stem.dir="down">
                                        <note xml:id="note-0000000556644662" oct="5" pname="c"/>
                                        <note xml:id="note-0000000844505823" oct="5" pname="b">
                                           <accid xml:id="accid-0000001224598009" accid="f"/>
                                        </note>
                                     </chord>
-                                    <chord xml:id="chord-0000001970550232" dur="8" stem.dir="up">
+                                    <chord xml:id="chord-0000001970550232" dur="8" stem.dir="down">
                                        <note xml:id="note-0000000784069854" oct="5" pname="c"/>
                                        <note xml:id="note-0000000784897132" accid.ges="f" oct="5" pname="b"/>
                                     </chord>
@@ -42069,7 +42074,9 @@
                                  </beam>
                                  <beam xml:id="beam-0000000076689323">
                                     <chord xml:id="chord-0000002068106156" dur="8" stem.dir="up">
-                                       <note xml:id="note-0000000450646047" oct="3" pname="b"/>
+                                       <note xml:id="note-0000000450646047" oct="3" pname="b">
+                                          <accid xml:id="f6c21a14-de1e-4642-910c-3980e115ebf0" accid="n"/>
+                                       </note>
                                        <note xml:id="note-0000000330944571" oct="4" pname="f">
                                           <accid xml:id="accid-0000001136373010" accid="s"/>
                                        </note>
@@ -42433,7 +42440,6 @@
                                        <note xml:id="note-0000000275550349" oct="5" pname="f">
                                           <accid xml:id="accid-0000000316326375" accid="n"/>
                                        </note>
-                                       <note xml:id="note-0000001240961539" oct="6" pname="d"/>
                                        <note xml:id="note-0000000461384498" oct="6" pname="f">
                                           <accid xml:id="accid-0000000384599835" accid="n"/>
                                        </note>
@@ -42449,8 +42455,12 @@
                               <layer xml:id="layer-0000001361373348" n="5">
                                  <beam xml:id="beam-0000000761208673">
                                     <chord xml:id="chord-0000001628202161" dur="8" stem.dir="up">
-                                       <note xml:id="note-0000000783283689" oct="2" pname="f"/>
-                                       <note xml:id="note-0000001320904154" oct="3" pname="f"/>
+                                       <note xml:id="note-0000000783283689" oct="2" pname="f">
+                                          <accid xml:id="ba1629d0-84bf-4bf6-9492-f45707c3fe1a" accid="s"/>
+                                       </note>
+                                       <note xml:id="note-0000001320904154" oct="3" pname="f">
+                                          <accid xml:id="ab1629d0-84bf-4bf6-9492-f45707c3fe1a" accid="s"/>
+                                       </note>
                                     </chord>
                                     <chord xml:id="chord-0000001854134328" dur="8" stem.dir="up">
                                        <note xml:id="note-0000002061608073" oct="2" pname="g"/>
