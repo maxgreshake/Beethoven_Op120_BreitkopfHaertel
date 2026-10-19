@@ -42575,7 +42575,7 @@
                            </layer>
                         </staff>
                         <dynam xml:id="dynam-0000001571776276" place="between" staff="1 2" tstamp="1.000000" vgrp="40">p mezza voce</dynam>
-                        <tempo xml:id="tempo-0000000091205422" mm="48" mm.unit="4" place="above" startid="#note-0000000298483681">Adagio ma non troppo</tempo>
+                        <tempo xml:id="tempo-0000000091205422" mm="48" mm.unit="4" place="above" startid="#note-0000000298483681">Adagio ma non troppo.</tempo>
                         <tempo xml:id="tempo-0000001357482578" place="above" staff="1" tstamp="1.000000">
                            <rend xml:id="rend-0000000447258912" fontsize="125.00%" fontweight="bold" halign="center">VAR. XXIX.</rend>
                         </tempo>
@@ -42629,7 +42629,9 @@
                               <chord xml:id="chord-0000000952581661" dur="4" stem.dir="down">
                                  <note xml:id="note-0000001407319810" oct="3" pname="d"/>
                                  <note xml:id="note-0000000731147288" oct="3" pname="g"/>
-                                 <note xml:id="note-0000000741909110" oct="3" pname="b"/>
+                                 <note xml:id="note-0000000741909110" oct="3" pname="b">
+                                    <accid xml:id="eab8a49f-99c1-4ae1-84e0-4e255c396864" accid="n"/>
+                                 </note>
                               </chord>
                            </layer>
                         </staff>
@@ -42852,7 +42854,9 @@
                               <clef xml:id="clef-0000000500006693" line="2" shape="G"/>
                               <chord xml:id="chord-0000000805723824" dur="8" stem.dir="up">
                                  <note xml:id="note-0000001407586273" oct="4" pname="d"/>
-                                 <note xml:id="note-0000000861275605" oct="5" pname="c"/>
+                                 <note xml:id="note-0000000861275605" oct="5" pname="c">
+                                    <accid xml:id="daab87c9-c3e7-469d-b7b6-1686c8282686" accid="n"/>
+                                 </note>
                               </chord>
                               <beam xml:id="beam-0000001536323594">
                                  <note xml:id="note-0000001790345491" dur="8" oct="5" pname="c" stem.dir="up"/>
@@ -42863,10 +42867,12 @@
                               <clef xml:id="clef-0000001713424409" line="4" shape="F"/>
                            </layer>
                            <layer xml:id="layer-0000001871616374" n="6">
-                              <space xml:id="space-0000000864984813" dur="2"/>
-                              <clef xml:id="clef-0000000668733553" sameas="#clef-0000001713424409"/>
-                              <note xml:id="note-0000001431809220" dur="8" oct="4" pname="g" stem.dir="down"/>
+                              <space xml:id="a1e99487-7e96-4544-930e-e89728579de8" dur="4" dots="1"/>
+                              <clef xml:id="a1f99487-7e96-4544-930e-e89728579de8" shape="G" line="2" visible="false"/>
+                              <space xml:id="elf99487-7e96-4544-930e-e89728579de8" dur="8"/>
+                              <note xml:id="note-0000001431809220" dur="4" oct="4" pname="g" stem.dir="down"/>
                               <space xml:id="space-0000000730635164" dur="8"/>
+                              <clef xml:id="c937106e-4116-4b2c-9f1b-58ae38c38376" shape="F" line="4" visible="false"/>
                            </layer>
                         </staff>
                         <slur xml:id="slur-0000000419066236" curvedir="above" endid="#note-0000000098894681" startid="#note-0000001227998780"/>
@@ -43128,7 +43134,7 @@
                                  <chord xml:id="chord-0000001219011192" dur="8" stem.dir="down">
                                     <note xml:id="note-0000000539744578" oct="3" pname="f"/>
                                     <note xml:id="note-0000000551893046" accid.ges="f" oct="3" pname="a"/>
-                                    <note xml:id="note-0000001197423641" oct="4" pname="c">
+                                    <note xml:id="note-0000001197423641" oct="4" pname="d">
                                        <accid xml:id="accid-0000001484167006" accid="f"/>
                                     </note>
                                  </chord>
