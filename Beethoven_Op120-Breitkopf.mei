@@ -5316,7 +5316,7 @@
                            <tie xml:id="tie-0000001919050136" curvedir="above" endid="#note-0000001043360005" startid="#note-0000000507756981"/>
                            <tie xml:id="tie-0000000688703016" curvedir="below" endid="#note-0000001596517681" startid="#note-0000000483790194"/>
                            <slur xml:id="slur-0000000310262865" curvedir="above" endid="#note-0000000497677139" startid="#note-0000000647189560"/>
-                           <dynam xml:id="dynam-0000000010870108" tstamp="2.500000" vgrp="40" place="between" staff="1 2">pp</dynam>
+                           <dynam xml:id="dynam-0000000010870108" tstamp="2.500000" vgrp="40" place="below" staff="2">pp</dynam>
                            <slur xml:id="slur-0000000879463101" curvedir="below" endid="#note-0000000716670630" startid="#note-0000000982763267"/>
                         </measure>
                         <measure xml:id="measure-0000000634486509" n="117">
@@ -6378,7 +6378,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000000740685154" tstamp="1.000000" vgrp="40" place="between" staff="1 2">p</dynam>
+                           <dynam xml:id="dynam-0000000740685154" tstamp="1.000000" vgrp="40" place="below" staff="2">p</dynam>
                            <slur xml:id="slur-0000000620165619" curvedir="above" endid="#note-0000001118066710" startid="#note-0000001279557411"/>
                         </measure>
                         <measure xml:id="measure-0000001730222320" n="144">
@@ -6401,7 +6401,7 @@
                                  <note xml:id="note-0000001118066710" dur="4" oct="3" pname="b" stem.dir="down"/>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000000610144701" tstamp="3.000000" vgrp="40" place="between" staff="1 2">p</dynam>
+                           <dynam xml:id="dynam-0000000610144701" tstamp="3.000000" vgrp="40" place="below" staff="1">p</dynam>
                            <slur xml:id="slur-0000001301468549" curvedir="above" endid="#note-0000000963380786" startid="#note-0000000826130972"/>
                         </measure>
                         <measure xml:id="measure-0000000865283720" n="145">
@@ -7038,7 +7038,7 @@
                            <tempo xml:id="tempo-0000000155984895" place="above" staff="1" tstamp="1.000000">
                               <rend xml:id="rend-0000001708080925" fontsize="125.00%" fontstyle="normal" fontweight="bold" halign="center">VAR. V.</rend>
                            </tempo>
-                           <dynam xml:id="dynam-0000000214960022" tstamp="1.000000" vgrp="200" place="between" staff="1 2">p</dynam>
+                           <dynam xml:id="dynam-0000000214960022" tstamp="1.000000" vgrp="200" place="below" staff="2">p</dynam>
                         </measure>
                         <measure xml:id="measure-0000001095621247" n="160">
                            <staff xml:id="staff-0000000526835956" n="1">
@@ -7056,7 +7056,7 @@
                                  <note xml:id="note-0000000808088551" dots="1" dur="2" oct="3" pname="g" stem.dir="down"/>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000000214960023" tstamp="3.000000" vgrp="200" place="between" staff="1 2">p</dynam>
+                           <dynam xml:id="dynam-0000000214960023" tstamp="3.000000" vgrp="200" place="below" staff="1">p</dynam>
                            <tie xml:id="tie-0000000857693029" endid="#note-0000001765500041" startid="#note-0000000808088551"/>
                         </measure>
                         <measure xml:id="measure-0000001336499739" n="161">
@@ -7323,7 +7323,7 @@
                               </layer>
                            </staff>
                            <tie xml:id="tie-0000000525189813" endid="#note-0000000373063776" startid="#note-0000001667982193"/>
-                           <dynam xml:id="dynam-0000001038862124" tstamp="3.000000" vgrp="40" place="between" staff="1 2">f</dynam>
+                           <dynam xml:id="dynam-0000001038862124" tstamp="3.000000" vgrp="40" place="below" staff="2">f</dynam>
                         </measure>
                         <measure xml:id="measure-0000002097386501" n="170">
                            <staff xml:id="staff-0000001674023606" n="1">
@@ -7456,8 +7456,8 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000000174043496" place="below" staff="1" tstamp="1.000000" vgrp="53">sf</dynam>
-                           <dynam xml:id="dynam-0000001857627649" place="below" staff="1" tstamp="3.000000" vgrp="53">sf</dynam>
+                           <dynam xml:id="dynam-0000000174043496" place="between" staff="1 2" tstamp="1.000000" vgrp="53">sf</dynam>
+                           <dynam xml:id="dynam-0000001857627649" place="between" staff="1 2" tstamp="3.000000" vgrp="53">sf</dynam>
                         </measure>
                         <measure xml:id="measure-0000001149986952" n="173">
                            <staff xml:id="staff-0000000542455755" n="1">
@@ -7520,7 +7520,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000001204132915" place="below" staff="1" tstamp="2.000000" vgrp="53">sf</dynam>
+                           <dynam xml:id="dynam-0000001204132915" place="between" staff="1 2" tstamp="2.000000" vgrp="53">sf</dynam>
                         </measure>
                         <measure xml:id="measure-0000000782676175" n="174">
                            <staff xml:id="staff-0000001313073061" n="1">
@@ -7574,7 +7574,7 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000000245493467" place="below" staff="1" tstamp="1.000000" vgrp="53">sf</dynam>
+                           <dynam xml:id="dynam-0000000245493467" place="between" staff="1 2" tstamp="1.000000" vgrp="53">sf</dynam>
                            <dynam xml:id="dynam-0000001681870321" tstamp="2.000000" vgrp="40" place="between" staff="1 2">p</dynam>
                         </measure>
                         <measure xml:id="measure-0000001506178052" metcon="false" n="175" right="rptend">
@@ -7611,7 +7611,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000001586277738" tstamp="1.000000" vgrp="40" place="between" staff="1 2">pp</dynam>
+                           <dynam xml:id="dynam-0000001586277738" tstamp="1.000000" vgrp="40" place="below" staff="2">pp</dynam>
                         </measure>
                         <measure xml:id="measure-0000001724093682" n="176">
                            <staff xml:id="staff-0000001091374759" n="1">
@@ -7629,7 +7629,7 @@
                                  <note xml:id="note-0000001903353936" dots="1" dur="2" oct="3" pname="e" stem.dir="down"/>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000000716834265" tstamp="3.000000" vgrp="40" place="between" staff="1 2">pp</dynam>
+                           <dynam xml:id="dynam-0000000716834265" tstamp="3.000000" vgrp="40" place="below" staff="1">pp</dynam>
                            <tie xml:id="tie-0000000099713733" endid="#note-0000001392150898" startid="#note-0000000449895260"/>
                            <tie xml:id="tie-0000000753196640" endid="#note-0000001711996472" startid="#note-0000001903353936"/>
                         </measure>
@@ -7872,7 +7872,7 @@
                               </layer>
                            </staff>
                            <dynam xml:id="dynam-0000001352719088" place="below" staff="2" tstamp="2.000000" vgrp="20">sf</dynam>
-                           <dynam xml:id="dynam-0000001352719089" place="below" staff="1" tstamp="3.000000" vgrp="30">sf</dynam>
+                           <dynam xml:id="dynam-0000001352719089" place="between" staff="1 2" tstamp="3.000000" vgrp="30">sf</dynam>
                         </measure>
                         <measure xml:id="measure-0000001111739125" n="184">
                            <staff xml:id="staff-0000001804831398" n="1">
@@ -7924,7 +7924,7 @@
                                  <note xml:id="note-0000001780679917" dur="4" oct="2" pname="c" stem.dir="down"/>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000002026139198" place="below" staff="1" tstamp="2.000000" vgrp="40">sf</dynam>
+                           <dynam xml:id="dynam-0000002026139198" place="between" staff="1 2" tstamp="2.000000" vgrp="40">sf</dynam>
                         </measure>
                         <pb xml:id="pb-0000000649412911"/>
                         <measure xml:id="measure-0000000555260427" n="185">
@@ -7983,7 +7983,7 @@
                                  </note>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000001110758440" place="below" staff="1" tstamp="2.000000" vgrp="40">sf</dynam>
+                           <dynam xml:id="dynam-0000001110758440" place="between" staff="1 2" tstamp="2.000000" vgrp="40">sf</dynam>
                         </measure>
                         <measure xml:id="measure-0000001751795861" n="186">
                            <staff xml:id="staff-0000000293675799" n="1">
@@ -8055,7 +8055,7 @@
                                  </note>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000000391418734" place="below" staff="1" tstamp="2.000000" vgrp="40">sf</dynam>
+                           <dynam xml:id="dynam-0000000391418734" place="between" staff="1 2" tstamp="2.000000" vgrp="40">sf</dynam>
                         </measure>
                         <measure xml:id="measure-0000002097377461" n="187">
                            <staff xml:id="staff-0000002018675913" n="1">
@@ -8118,7 +8118,7 @@
                                  <note xml:id="note-0000000000092902" dur="4" oct="1" pname="g" stem.dir="down"/>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000001682253104" place="below" staff="1" tstamp="2.000000" vgrp="40">sf</dynam>
+                           <dynam xml:id="dynam-0000001682253104" place="between" staff="1 2" tstamp="2.000000" vgrp="40">sf</dynam>
                         </measure>
                         <measure xml:id="measure-0000001561403914" n="188">
                            <staff xml:id="staff-0000001802637920" n="1">
@@ -8182,8 +8182,8 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000001109768487" place="below" staff="1" tstamp="1.000000" vgrp="40">sf</dynam>
-                           <dynam xml:id="dynam-0000001343882704" place="below" staff="1" tstamp="3.000000" vgrp="40">sf</dynam>
+                           <dynam xml:id="dynam-0000001109768487" place="between" staff="1 2" tstamp="1.000000" vgrp="40">sf</dynam>
+                           <dynam xml:id="dynam-0000001343882704" place="between" staff="1 2" tstamp="3.000000" vgrp="40">sf</dynam>
                         </measure>
                         <measure xml:id="measure-0000000940418742" n="189">
                            <staff xml:id="staff-0000000906212929" n="1">
@@ -8251,7 +8251,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000001937577628" place="below" staff="1" tstamp="2.000000" vgrp="40">sf</dynam>
+                           <dynam xml:id="dynam-0000001937577628" place="between" staff="1 2" tstamp="2.000000" vgrp="40">sf</dynam>
                         </measure>
                         <measure xml:id="measure-0000000630272953" n="190">
                            <staff xml:id="staff-0000001436511922" n="1">
@@ -8301,7 +8301,7 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000001849345378" place="below" staff="1" tstamp="1.000000" vgrp="40">sf</dynam>
+                           <dynam xml:id="dynam-0000001849345378" place="between" staff="1 2" tstamp="1.000000" vgrp="40">sf</dynam>
                            <dynam xml:id="dynam-0000000918487962" tstamp="2.000000" vgrp="40" place="between" staff="1 2">p</dynam>
                         </measure>
                         <measure xml:id="measure-0000002136810418" n="191">
@@ -8343,7 +8343,7 @@
                            </staff>
                            <tie xml:id="tie-0000001224120000" endid="#note-0000000277613840" startid="#note-0000001056759533"/>
                            <tie xml:id="tie-0000000476339061" endid="#note-0000001012604790" startid="#note-0000000891501740"/>
-                           <dynam xml:id="dynam-0000001673074251" tstamp="3.000000" vgrp="40" place="between" staff="1 2">pp</dynam>
+                           <dynam xml:id="dynam-0000001673074251" tstamp="3.000000" vgrp="40" place="below" staff="2">pp</dynam>
                         </measure>
                         <sb xml:id="sb-0000000469831415"/>
                         <measure xml:id="measure-0000001483275968" n="192">
@@ -8614,7 +8614,7 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000001330468488" place="below" staff="1" tstamp="3.000000" vgrp="40">sf</dynam>
+                           <dynam xml:id="dynam-0000001330468488" place="between" staff="1 2" tstamp="3.000000" vgrp="40">sf</dynam>
                            <dynam xml:id="dynam-0000001330468489" place="below" staff="2" tstamp="2.000000" vgrp="40">sf</dynam>
                         </measure>
                         <measure xml:id="measure-0000002011075170" n="200">
@@ -8667,7 +8667,7 @@
                                  <note xml:id="note-0000001655660406" dur="4" oct="2" pname="c" stem.dir="down"/>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000000118862491" place="below" staff="1" tstamp="2.000000" vgrp="40">sf</dynam>
+                           <dynam xml:id="dynam-0000000118862491" place="between" staff="1 2" tstamp="2.000000" vgrp="40">sf</dynam>
                         </measure>
                         <sb xml:id="sb-0000000990154703"/>
                         <measure xml:id="measure-0000001738829463" n="201">
@@ -8726,7 +8726,7 @@
                                  </note>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000001367635225" place="below" staff="1" tstamp="2.000000" vgrp="40">sf</dynam>
+                           <dynam xml:id="dynam-0000001367635225" place="between" staff="1 2" tstamp="2.000000" vgrp="40">sf</dynam>
                         </measure>
                         <measure xml:id="measure-0000000089809727" n="202">
                            <staff xml:id="staff-0000001632661693" n="1">
@@ -8798,7 +8798,7 @@
                                  </note>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000001083079786" place="below" staff="1" tstamp="2.000000" vgrp="40">sf</dynam>
+                           <dynam xml:id="dynam-0000001083079786" place="between" staff="1 2" tstamp="2.000000" vgrp="40">sf</dynam>
                         </measure>
                         <measure xml:id="measure-0000000659354243" n="203">
                            <staff xml:id="staff-0000000951378640" n="1">
@@ -8861,7 +8861,7 @@
                                  <note xml:id="note-0000001552774137" dur="4" oct="1" pname="g" stem.dir="down"/>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000001064176831" place="below" staff="1" tstamp="2.000000" vgrp="40">sf</dynam>
+                           <dynam xml:id="dynam-0000001064176831" place="between" staff="1 2" tstamp="2.000000" vgrp="40">sf</dynam>
                         </measure>
                         <measure xml:id="measure-0000001253642215" n="204">
                            <staff xml:id="staff-0000001835130895" n="1">
@@ -8925,8 +8925,8 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000001785421687" place="below" staff="1" tstamp="1.000000" vgrp="43">sf</dynam>
-                           <dynam xml:id="dynam-0000002054502562" place="below" staff="1" tstamp="3.000000" vgrp="39">sf</dynam>
+                           <dynam xml:id="dynam-0000001785421687" place="between" staff="1 2" tstamp="1.000000" vgrp="43">sf</dynam>
+                           <dynam xml:id="dynam-0000002054502562" place="between" staff="1 2" tstamp="3.000000" vgrp="39">sf</dynam>
                         </measure>
                         <measure xml:id="measure-0000001164610965" n="205">
                            <staff xml:id="staff-0000001551360521" n="1">
@@ -8994,7 +8994,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000001261156674" place="below" staff="1" tstamp="2.000000" vgrp="40">sf</dynam>
+                           <dynam xml:id="dynam-0000001261156674" place="between" staff="1 2" tstamp="2.000000" vgrp="40">sf</dynam>
                         </measure>
                         <measure xml:id="measure-0000001973855394" n="206">
                            <staff xml:id="staff-0000001686655184" n="1">
@@ -9044,7 +9044,7 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000000566001692" place="below" staff="1" tstamp="1.000000" vgrp="40">sf</dynam>
+                           <dynam xml:id="dynam-0000000566001692" place="between" staff="1 2" tstamp="1.000000" vgrp="40">sf</dynam>
                            <dynam xml:id="dynam-0000000830151610" tstamp="2.000000" vgrp="41" place="between" staff="1 2">p</dynam>
                         </measure>
                         <measure xml:id="measure-0000000777224867" metcon="false" n="207" right="end">
