@@ -56,6 +56,12 @@
             </changeDesc>
             <date xml:id="f6rrtd09" isodate="2026-10-19"/>
          </change>
+         <change xml:id="crsmg28102026" n="4" resp="#rsenc10092026 #mgenc10092026">
+            <changeDesc xml:id="cdrsmg28102026">
+               <p xml:id="dd965a9d-97cc-4dee-9e0c-bf345479985c">fixed layers and dynamics in comparison with Breitkopf &amp; Härtel edition 1862–90, B.165.</p>
+            </changeDesc>
+            <date xml:id="f6trtd09" isodate="2026-10-28"/>
+         </change>
       </revisionDesc>
    </meiHead>
    <music xml:id="m0bso2d">
