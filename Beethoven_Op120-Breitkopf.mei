@@ -22648,7 +22648,7 @@
                            </staff>
                            <dynam xml:id="dynam-0000000436317606" tstamp="1.000000" vgrp="42" place="between" staff="1 2">f</dynam>
                            <tie xml:id="tie-0000001251792505" endid="#note-0000000132827752" startid="#note-0000001186320579"/>
-                           <hairpin xml:id="hairpin-0000002126825523" form="dim" place="below" staff="1" tstamp="2.000000" tstamp2="0m+3.0000" vgrp="42"/>
+                           <hairpin xml:id="hairpin-0000002126825523" form="dim" place="between" staff="1 2" tstamp="2.000000" tstamp2="0m+3.0000" vgrp="42"/>
                            <dynam xml:id="dynam-0000000743892564" tstamp="3.000000" vgrp="42" place="between" staff="1 2">p</dynam>
                            <pedal xml:id="pedal-0000000829605758" dir="up" form="line" place="below" staff="2" tstamp="2.900000" vgrp="200"/>
                            <pedal xml:id="pedal-0000001720138382" dir="down" form="line" place="below" staff="2" tstamp="3.000000" vgrp="80"/>
@@ -23917,7 +23917,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <hairpin xml:id="hairpin-0000000972541299" form="dim" place="below" staff="1" tstamp="1.500000" tstamp2="0m+2.5000" vgrp="75"/>
+                           <hairpin xml:id="hairpin-0000000972541299" form="dim" place="between" staff="1 2" tstamp="1.500000" tstamp2="0m+2.5000" vgrp="75"/>
                         </measure>
                         <measure xml:id="measure-0000000604621723" metcon="false" n="541" right="rptend">
                            <staff xml:id="staff-0000000697158468" n="1">
@@ -25492,7 +25492,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000002037579208" tstamp="4.000000" tstamp2="3m+4.0000" place="between" staff="1 2">cresc.</dynam>
+                           <dynam xml:id="dynam-0000002037579208" extender="true" lform="dashed" tstamp="4.000000" tstamp2="3m+4.0000" place="between" staff="1 2">cresc.</dynam>
                         </measure>
                         <measure xml:id="measure-0000000043929320" n="571">
                            <staff xml:id="staff-0000000401249597" n="1">
@@ -26802,7 +26802,7 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000002007022240" place="below" staff="1" tstamp="4.000000" vgrp="45">sf</dynam>
+                           <dynam xml:id="dynam-0000002007022240" place="between" staff="1 2" tstamp="4.000000" vgrp="45">sf</dynam>
                            <tie xml:id="tie-0000000055010073" endid="#note-0000001621933720" startid="#note-0000001098344495"/>
                            <tie xml:id="tie-0000002003897088" endid="#note-0000000170915663" startid="#note-0000001136328701"/>
                         </measure>
@@ -26989,7 +26989,7 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000000687864076" place="below" startid="#chord-0000001660931375">sf</dynam>
+                           <dynam xml:id="dynam-0000000687864076" place="below" staff="2" startid="#chord-0000001660931375">sf</dynam>
                         </measure>
                      </section>
                      <ending xml:id="Var-XVII-B1" lendsym="angledown" n="1.">
@@ -27436,7 +27436,7 @@
                               </layer>
                            </staff>
                            <slur xml:id="slur-0000000177675501" curvedir="above" endid="#note-0000000910004765" startid="#note-0000002068824067"/>
-                           <dynam xml:id="dynam-0000001510014691" tstamp="3.000000" tstamp2="8m+1.0000" vgrp="40" place="between" staff="1 2">cresc.</dynam>
+                           <dynam xml:id="dynam-0000001510014691" extender="true" lform="dashed" tstamp="3.000000" tstamp2="8m+1.0000" vgrp="40" place="between" staff="1 2">cresc.</dynam>
                            <slur xml:id="slur-0000001595553183" curvedir="above" endid="#note-0000000831539229" startid="#note-0000001296088646"/>
                         </measure>
                         <measure xml:id="measure-0000001014174985" n="598">
@@ -28033,7 +28033,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000000403873032" tstamp="2.500000" tstamp2="8m+1.0000" vgrp="40" place="between" staff="1 2">cresc.</dynam>
+                           <dynam xml:id="dynam-0000000403873032" extender="true" lform="dashed" tstamp="2.500000" tstamp2="8m+1.0000" vgrp="40" place="between" staff="1 2">cresc.</dynam>
                            <slur xml:id="slur-0000000391824845" curvedir="above" endid="#note-0000001163496491" startid="#note-0000001065793816"/>
                            <slur xml:id="slur-0000001766596612" curvedir="below" endid="#note-0000002144168361" startid="#note-0000002005322223"/>
                         </measure>
@@ -28738,7 +28738,7 @@
                                  <note xml:id="note-0000001819591548" dur="4" oct="3" pname="c" stem.dir="down"/>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000000662983101" tstamp="3.000000" tstamp2="3m+1.0000" vgrp="206" place="between" staff="1 2">cresc.</dynam>
+                           <dynam xml:id="dynam-0000000662983101" extender="true" lform="dashed" tstamp="3.000000" tstamp2="3m+1.0000" vgrp="206" place="between" staff="1 2">cresc.</dynam>
                         </measure>
                         <measure xml:id="measure-0000000624436785" n="634">
                            <staff xml:id="staff-0000001339960182" n="1">
@@ -28874,7 +28874,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <hairpin xml:id="hairpin-0000000993937028" form="dim" place="below" staff="1" tstamp="1.000000" tstamp2="0m+3.5000" vgrp="78"/>
+                           <hairpin xml:id="hairpin-0000000993937028" form="dim" place="between" staff="1 2" tstamp="1.000000" tstamp2="0m+3.5000" vgrp="78"/>
                            <slur xml:id="slur-0000001465436046" curvedir="above" endid="#note-0000001499508575" startid="#note-0000000764925931"/>
                            <slur xml:id="slur-0000000635501124" endid="#note-0000000863878196" startid="#note-0000001174738175"/>
                         </measure>
@@ -28921,7 +28921,7 @@
                               </layer>
                            </staff>
                            <slur xml:id="slur-0000000474353724" curvedir="above" endid="#note-0000000547415163" startid="#note-0000000775260111"/>
-                           <dynam xml:id="dynam-0000000356078257" tstamp="3.000000" vgrp="237" place="between" staff="1 2">f</dynam>
+                           <dynam xml:id="dynam-0000000356078257" tstamp="3.000000" vgrp="237" place="above" staff="1">f</dynam>
                            <slur xml:id="slur-0000001603292819" curvedir="above" endid="#note-0000000438671484" startid="#chord-0000001817083520"/>
                         </measure>
                      </ending>
@@ -28959,7 +28959,7 @@
                            </staff>
                            <slur xml:id="slur-0000000966881499" curvedir="below" endid="#note-0000000762437977" startid="#note-0000001411788512"/>
                            <slur xml:id="slur-0000000490024067" curvedir="above" endid="#note-0000002016241504" startid="#note-0000001341587141"/>
-                           <dynam xml:id="dynam-0000001674184150" tstamp="3.000000" vgrp="40" place="between" staff="1 2">f</dynam>
+                           <dynam xml:id="dynam-0000001674184150" tstamp="3.000000" vgrp="40" place="below" staff="2">f</dynam>
                         </measure>
                      </ending>
                      <section xml:id="Var-XIX-B">
@@ -28982,7 +28982,7 @@
                               </layer>
                            </staff>
                            <tie xml:id="tie-0000001203224388" endid="#note-0000000445370073" startid="#note-0000000671272643"/>
-                           <dynam xml:id="dynam-0000001942255353" tstamp="1.000000" vgrp="40" place="between" staff="1 2">f</dynam>
+                           <dynam xml:id="dynam-0000001942255353" tstamp="1.000000" vgrp="40" place="below" staff="1">f</dynam>
                         </measure>
                         <measure xml:id="measure-0000000877772451" n="639">
                            <staff xml:id="staff-0000000018079112" n="1">
@@ -29469,7 +29469,7 @@
                            <tie xml:id="tie-0000001385420663" endid="#note-0000000100916498" startid="#note-0000000929859990"/>
                            <slur xml:id="slur-0000000940209010" curvedir="above" endid="#chord-0000000981120968" startid="#chord-0000001383827874"/>
                            <tie xml:id="tie-0000000547406871" endid="#note-0000000703371071" startid="#note-0000001799930516"/>
-                           <dynam xml:id="dynam-0000001842409851" tstamp="2.500000" vgrp="40" place="between" staff="1 2">f</dynam>
+                           <dynam xml:id="dynam-0000001842409851" tstamp="2.500000" vgrp="40" lace="below" staff="2">f</dynam>
                            <tie xml:id="tie-0000001836669958" endid="#note-0000000580895747" startid="#note-0000000444690154"/>
                            <slur xml:id="slur-0000001617628055" curvedir="below" endid="#note-0000001580751468" startid="#note-0000000444690154"/>
                         </measure>
@@ -29508,7 +29508,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000000821528733" tstamp="3.000000" vgrp="40" place="between" staff="1 2">f</dynam>
+                           <dynam xml:id="dynam-0000000821528733" tstamp="3.000000" vgrp="40" place="below" staff="2">f</dynam>
                            <pedal xml:id="pedal-0000000863162066" dir="up" form="line" place="below" staff="2" tstamp="3.900000" vgrp="200"/>
                            <slur xml:id="slur-0000000233252443" endid="#note-0000001692529926" startid="#note-0000002080183765"/>
                         </measure>
@@ -29570,7 +29570,7 @@
                            <tie xml:id="tie-0000000200031123" endid="#note-0000000168446443" startid="#note-0000000255865786"/>
                            <slur xml:id="slur-0000001496344929" curvedir="above" endid="#chord-0000000797851877" startid="#chord-0000001876263485"/>
                            <tie xml:id="tie-0000000629741773" endid="#note-0000000543598481" startid="#note-0000001655978739"/>
-                           <dynam xml:id="dynam-0000001350640961" tstamp="2.500000" vgrp="41" place="between" staff="1 2">f</dynam>
+                           <dynam xml:id="dynam-0000001350640961" tstamp="2.500000" vgrp="41" lace="below" staff="2">f</dynam>
                            <slur xml:id="slur-0000000053733327" endid="#note-0000000520004779" staff="1" tstamp="0.000000"/>
                            <tie xml:id="tie-0000000198999904" curvedir="below" endid="#note-0000001364991216" startid="#note-0000000405467072"/>
                            <slur xml:id="slur-0000000554619752" curvedir="below" endid="#note-0000001283871018" startid="#note-0000000405467072"/>
