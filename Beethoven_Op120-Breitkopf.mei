@@ -627,7 +627,7 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <hairpin xml:id="hairpin-0000001276662003" form="cres" place="below" staff="1" tstamp="2.000000" tstamp2="0m+3.9500" vgrp="97"/>
+                           <hairpin xml:id="hairpin-0000001276662003" form="cres" place="between" staff="1 2" tstamp="2.000000" tstamp2="0m+3.9500" vgrp="97"/>
                         </measure>
                         <measure xml:id="measure-0000000050509878" n="14">
                            <staff xml:id="staff-0000001255517228" n="1">
@@ -674,7 +674,7 @@
                            <slur xml:id="slur-0000000182417125" curvedir="above" endid="#chord-0000000958521464" startid="#chord-0000000546241150"/>
                            <tie xml:id="slur-0000001425455606" curvedir="above" endid="#note-0000001094178675" startid="#note-0000001254892791"/>
                            <dynam xml:id="dynam-0000000563305465" tstamp="3.000000" vgrp="97" place="between" staff="1 2">p</dynam>
-                           <hairpin xml:id="hairpin-0000000016324635" form="dim" place="below" staff="1" tstamp="1.000000" tstamp2="0m+2.5000" vgrp="97"/>
+                           <hairpin xml:id="hairpin-0000000016324635" form="dim" place="between" staff="1 2" tstamp="1.000000" tstamp2="0m+2.5000" vgrp="97"/>
                            <slur xml:id="slur-0000001483292740" curvedir="below" endid="#chord-0000000780238775" startid="#chord-0000002139649965"/>
                            <slur xml:id="slur-0000001710906804" curvedir="above" endid="#chord-0000000780238775" startid="#chord-0000002139649965"/>
                         </measure>
@@ -831,7 +831,7 @@
                                  </note>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000001436984021" tstamp="1.500000" vgrp="93" place="between" staff="1 2">cresc.</dynam>
+                           <dynam xml:id="dynam-0000001436984021" tstamp="1.000000" vgrp="93" place="between" staff="1 2">cresc.</dynam>
                            <hairpin xml:id="hairpin-0000001544927976" form="cres" place="above" staff="1" tstamp="1.000000" tstamp2="1m+3.0000" vgrp="235"/>
                         </measure>
                         <measure xml:id="measure-0000001632250660" n="19">
@@ -979,8 +979,8 @@
                                  </note>
                               </layer>
                            </staff>
-                           <dynam xml:id="dynam-0000000123483661" extender="true" lform="dashed" tstamp="1.000000" tstamp2="0m+4.0000" vgrp="100" place="between" staff="1 2">cresc.</dynam>
-                           <hairpin xml:id="hairpin-0000001373875340" form="cres" place="below" staff="1" tstamp="1.000000" tstamp2="1m+3.0000" vgrp="96"/>
+                           <hairpin xml:id="hairpin-0000001373875340" form="cres" place="between" staff="1 2" tstamp="1.00000" tstamp2="1m+3.0000" vgrp="96"/>
+                           <dynam xml:id="dynam-0000000123483661" tstamp="1.000000" tstamp2="0m+4.0000" vgrp="100" place="between" staff="1 2">cresc.</dynam>
                         </measure>
                         <measure xml:id="measure-0000000981367265" n="23">
                            <staff xml:id="staff-0000001976127610" n="1">
@@ -1273,7 +1273,7 @@
                                  </chord>
                               </layer>
                            </staff>
-                           <hairpin xml:id="hairpin-0000001650311283" form="dim" place="below" staff="1" tstamp="1.000000" tstamp2="0m+2.5000" vgrp="40"/>
+                           <hairpin xml:id="hairpin-0000001650311283" form="dim" place="between" staff="1 2" tstamp="1.000000" tstamp2="0m+2.5000" vgrp="40"/>
                            <slur xml:id="slur-0000001423152125" curvedir="above" endid="#chord-0000002025444732" startid="#chord-0000001531829423"/>
                            <dynam xml:id="dynam-0000000114907828" tstamp="3.000000" vgrp="40" place="between" staff="1 2">f</dynam>
                            <slur xml:id="slur-0000001627464990" curvedir="below" endid="#chord-0000000782317716" startid="#chord-0000001115812142"/>
@@ -5046,7 +5046,7 @@
                                  </note>
                               </layer>
                            </staff>
-                           <hairpin xml:id="hairpin-0000001116449532" form="dim" place="below" staff="1" tstamp="2.000000" tstamp2="1m+2.0000" vgrp="85"/>
+                           <hairpin xml:id="hairpin-0000001116449532" form="dim" place="between" staff="1 2"  tstamp="2.000000" tstamp2="1m+2.0000" vgrp="85"/>
                            <tie xml:id="tie-0000000027387074" curvedir="above" endid="#note-0000000248079146" startid="#note-0000001602660485"/>
                            <slur xml:id="slur-0000000733052260" curvedir="above" endid="#note-0000001325307863" startid="#note-0000001602660485"/>
                         </measure>
@@ -9362,7 +9362,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <hairpin xml:id="hairpin-0000001588544202" form="dim" place="below" staff="1" tstamp="2.250000" tstamp2="0m+2.9500" vgrp="40"/>
+                           <hairpin xml:id="hairpin-0000001588544202" form="dim" place="between" staff="1 2" tstamp="2.250000" tstamp2="0m+2.9500" vgrp="40"/>
                            <trill xml:id="trill-0000000157828455" place="above" staff="1" tstamp="3.000000"/>
                            <dynam xml:id="dynam-0000001747043387" tstamp="3.000000" vgrp="40" place="between" staff="1 2">p</dynam>
                            <slur xml:id="slur-0000000693287444" curvedir="below" endid="#note-0000001068139158" startid="#note-0000001967364729"/>
@@ -10103,7 +10103,7 @@
                                  </beam>
                               </layer>
                            </staff>
-                           <hairpin xml:id="hairpin-0000001001348867" form="dim" place="below" staff="1" tstamp="2.000000" tstamp2="0m+2.9500" vgrp="75"/>
+                           <hairpin xml:id="hairpin-0000001001348867" form="dim" place="between" staff="1 2" tstamp="2.000000" tstamp2="0m+2.9500" vgrp="75"/>
                            <dynam xml:id="dynam-0000000319706973" tstamp="3.000000" vgrp="75" place="between" staff="1 2">p</dynam>
                            <trill xml:id="trill-0000000733717399" staff="1" startid="#note-0000000176881721"/>
                            <slur xml:id="slur-0000000737223919" curvedir="below" endid="#note-0000001816513635" startid="#note-0000000176881721"/>
@@ -10380,7 +10380,7 @@
                                  <rest xml:id="rest-0000000939297445" dur="8"/>
                               </layer>
                            </staff>
-                           <hairpin xml:id="hairpin-0000001132206347" form="dim" place="below" staff="1" tstamp="3.200000" tstamp2="0m+3.7500" vgrp="55"/>
+                           <hairpin xml:id="hairpin-0000001132206347" form="dim" place="between" staff="1 2"  tstamp="3.200000" tstamp2="0m+3.7500" vgrp="55"/>
                            <trill xml:id="trill-0000000601328860" staff="2" startid="#note-0000000391916087"/>
                            <slur xml:id="slur-0000000476107238" curvedir="below" endid="#note-0000002079574560" startid="#note-0000000391916087"/>
                         </measure>
