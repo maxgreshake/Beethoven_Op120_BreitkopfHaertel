@@ -29475,7 +29475,7 @@
                            <tie xml:id="tie-0000001385420663" endid="#note-0000000100916498" startid="#note-0000000929859990"/>
                            <slur xml:id="slur-0000000940209010" curvedir="above" endid="#chord-0000000981120968" startid="#chord-0000001383827874"/>
                            <tie xml:id="tie-0000000547406871" endid="#note-0000000703371071" startid="#note-0000001799930516"/>
-                           <dynam xml:id="dynam-0000001842409851" tstamp="2.500000" vgrp="40" lace="below" staff="2">f</dynam>
+                           <dynam xml:id="dynam-0000001842409851" tstamp="2.500000" vgrp="40" place="below" staff="2">f</dynam>
                            <tie xml:id="tie-0000001836669958" endid="#note-0000000580895747" startid="#note-0000000444690154"/>
                            <slur xml:id="slur-0000001617628055" curvedir="below" endid="#note-0000001580751468" startid="#note-0000000444690154"/>
                         </measure>
@@ -29576,7 +29576,7 @@
                            <tie xml:id="tie-0000000200031123" endid="#note-0000000168446443" startid="#note-0000000255865786"/>
                            <slur xml:id="slur-0000001496344929" curvedir="above" endid="#chord-0000000797851877" startid="#chord-0000001876263485"/>
                            <tie xml:id="tie-0000000629741773" endid="#note-0000000543598481" startid="#note-0000001655978739"/>
-                           <dynam xml:id="dynam-0000001350640961" tstamp="2.500000" vgrp="41" lace="below" staff="2">f</dynam>
+                           <dynam xml:id="dynam-0000001350640961" tstamp="2.500000" vgrp="41" place="below" staff="2">f</dynam>
                            <slur xml:id="slur-0000000053733327" endid="#note-0000000520004779" staff="1" tstamp="0.000000"/>
                            <tie xml:id="tie-0000000198999904" curvedir="below" endid="#note-0000001364991216" startid="#note-0000000405467072"/>
                            <slur xml:id="slur-0000000554619752" curvedir="below" endid="#note-0000001283871018" startid="#note-0000000405467072"/>
@@ -45622,7 +45622,7 @@
                            <dir xml:id="dir-0000000430124904" place="above" staff="1" tstamp="9.500000" vgrp="200">espressivo</dir>
                            <dir xml:id="dir-0000002079747799" place="below" staff="1" tstamp="9.450000" vgrp="52">poco ritenente</dir>
                            <tie xml:id="tie-0000002004110562" endid="#note-0000001204898063" startid="#note-0000001433924271"/>
-                           <dynam xml:id="dynam-0000001016832477" extender="true" lform="true" tstamp="1.000000" tstamp2="0m+3.0000" vgrp="206" place="between" staff="1 2">cresc.</dynam>
+                           <dynam xml:id="dynam-0000001016832477" extender="true" lform="dashed" tstamp="1.000000" tstamp2="0m+3.0000" vgrp="206" place="between" staff="1 2">cresc.</dynam>
                            <dynam xml:id="dynam-0000001016832478" tstamp="3.000000" vgrp="206" place="between" staff="1 2">dim.</dynam>
                            <dynam xml:id="dynam-0000000494657547" tstamp="4.000000" place="above" staff="2">p</dynam>
                            <dynam xml:id="dynam-0000001665936503" tstamp="6.000000" vgrp="211" place="between" staff="1 2">
