@@ -27,7 +27,7 @@
                <name xml:id="name-0000001962172014">Verovio</name>
                <p xml:id="p-0000001466155966">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="amoradh" enddate="2026-07-08T12:17:15" startdate="2023-08-14T16:51:29" version="1.4.1">
+            <application xml:id="amoradh" enddate="2026-11-03T10:54:41" startdate="2023-08-14T16:51:29" version="1.4.2">
                <name xml:id="n5p59u8">mei-friend</name>
                <p xml:id="p43m091">First edit by mei-friend 0.10.2, 12 August 2023.</p>
             </application>
@@ -37790,13 +37790,27 @@
                      </ending>
                      <pb xml:id="pb-0000000035464304"/>
                   </section>
-                  <section xml:id="Var-XXVI">
+                  <section xml:id="Var-XXVI" restart="true" label="Var-XXVI">
                      <expansion xml:id="expansion-Var-XXVI-default" plist="#Var-XXVI-A #Var-XXVI-A #Var-XXVI-B #Var-XXVI-B"/>
                      <expansion xml:id="expansion-Var-XXVI-minimal" plist="#Var-XXVI-A #Var-XXVI-B"/>
+                     <scoreDef xml:id="xb8d3764e-ebe6-4e9a-8af5-59c531afa4db">
+                        <staffGrp xml:id="x08266f85-85d7-45ae-a89d-544f44660be3" bar.thru="true" symbol="brace">
+                           <label xml:id="x188e1d8a-920d-4f99-a643-b3ab4b7cd9f3">
+                              <rend xml:id="xd9377479-1100-451f-a525-81a7b71d4bd0" fontsize="120.00%" fontweight="bold">VAR. XXVI</rend>
+                           </label>
+                           <staffDef xml:id="x4d7f7714-6836-4cbe-a751-19a35b518294" lines="5" n="1">
+                              <keySig xml:id="x3e4d12fe-3c52-4cba-8c3b-35bec5a40c5d"/>
+                              <clef xml:id="xa756609c-828a-46d2-941a-0d078cc36f0e" shape="G" line="2"/>
+                              <meterSig xml:id="x690abaa5-71b5-466d-899a-0a5a5e017897" count="3" unit="8"/>
+                           </staffDef>
+                           <staffDef xml:id="xdb2ec482-ae87-484c-a1db-79852ad2ea91" lines="5" n="2">
+                              <keySig xml:id="xb9842512-8165-4675-9c29-121a15ae9f52"/>
+                              <clef xml:id="x848bcd37-ded8-490d-80c7-008e04dbcf30" shape="F" line="4"/>
+                              <meterSig xml:id="xeef214f6-b0b0-4d74-b1cf-96775ae52e84" count="3" unit="8"/>
+                           </staffDef>
+                        </staffGrp>
+                     </scoreDef>
                      <section xml:id="Var-XXVI-A">
-                        <scoreDef xml:id="scoredef-0000001170264119">
-                           <meterSig xml:id="msig-0000001142984621" count="3" unit="8"/>
-                        </scoreDef>
                         <measure xml:id="measure-0000000885264424" metcon="false" n="809">
                            <staff xml:id="staff-0000001597562371" n="1">
                               <layer xml:id="layer-0000000612956817" n="1">
@@ -37813,9 +37827,6 @@
                                  <rest xml:id="rest-0000000523590947" dur="8"/>
                               </layer>
                            </staff>
-                           <tempo xml:id="tempo-0000000240792916" midi.bpm="115" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000001569920910" fontsize="125.00%" fontweight="bold" halign="center">VAR. XXVI.</rend>
-                           </tempo>
                            <slur xml:id="slur-0000000922950700" curvedir="above" endid="#note-0000001105744740" startid="#note-0000000554816732"/>
                            <dynam xml:id="dynam-0000001879842885" tstamp="1.000000" place="between" staff="1 2">p piacevole</dynam>
                         </measure>
@@ -39186,9 +39197,26 @@
                      </section>
                      <sb xml:id="sb-0000001538646562"/>
                   </section>
-                  <section xml:id="Var-XXVII">
+                  <section xml:id="Var-XXVII" restart="true" label="Var-XXVII">
                      <expansion xml:id="expansion-Var-XXVII-default" plist="#Var-XXVII-A #Var-XXVII-A1 #Var-XXVII-A #Var-XXVII-A2 #Var-XXVII-B #Var-XXVII-B1 #Var-XXVII-B #Var-XXVII-B2"/>
                      <expansion xml:id="expansion-Var-XXVII-minimal" plist="#Var-XXVII-A #Var-XXVII-A2 #Var-XXVII-B #Var-XXVII-B2"/>
+                     <scoreDef xml:id="xc227553a-a2cc-4325-b257-96bb4471687a">
+                        <staffGrp xml:id="x2b0de532-abd3-4b4a-8b11-fdad85073027" bar.thru="true" symbol="brace">
+                           <label xml:id="x96fb2dd7-228d-41e0-b29f-c409826ab961">
+                              <rend xml:id="xac9d7b72-7a55-468b-b666-797a227e973d" fontsize="120.00%" fontweight="bold">VAR. XXVII</rend>
+                           </label>
+                           <staffDef xml:id="x3605113b-cd4b-462c-9109-30455d7f484c" lines="5" n="1">
+                              <keySig xml:id="x102bc0e9-17a3-4df9-a31f-11a25073cb5e"/>
+                              <clef xml:id="xcc5e7483-8ef9-42f3-951d-7191b9b99578" shape="G" line="2"/>
+                              <meterSig xml:id="xbc94b6aa-71e7-4170-9adb-e9e3fd66330b" count="3" unit="8"/>
+                           </staffDef>
+                           <staffDef xml:id="x083f3bbc-e41b-4b41-b8ef-cda9a6b63680" lines="5" n="2">
+                              <keySig xml:id="x1e51f9e2-ec2e-49ff-ba42-bc1ffc42a586"/>
+                              <clef xml:id="x6c694b15-9f3b-4c18-a281-451951abffe9" shape="F" line="4"/>
+                              <meterSig xml:id="x64bbc4fb-b0e9-4c4e-a2f6-6e388b4ca9ca" count="3" unit="8"/>
+                           </staffDef>
+                        </staffGrp>
+                     </scoreDef>
                      <section xml:id="Var-XXVII-A">
                         <measure xml:id="measure-0000002026506355" metcon="false" n="841">
                            <staff xml:id="staff-0000000546276077" n="1">
@@ -39212,9 +39240,6 @@
                            </staff>
                            <dynam xml:id="dynam-0000000493565326" tstamp="1.000000" vgrp="40" place="between" staff="1 2">f</dynam>
                            <tempo xml:id="tempo-0000000062334968" mm="216" mm.unit="8" place="above" staff="1" tstamp="1.000000">Vivace.</tempo>
-                           <tempo xml:id="tempo-0000001396774362" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000000246091547" fontsize="125.00%" fontweight="bold" halign="center">VAR. XXVII.</rend>
-                           </tempo>
                         </measure>
                         <measure xml:id="measure-0000000349554490" n="842">
                            <staff xml:id="staff-0000000717647714" n="1">
@@ -41055,9 +41080,26 @@
                      </ending>
                      <pb xml:id="pb-0000000384399673"/>
                   </section>
-                  <section xml:id="Var-XXVIII">
+                  <section xml:id="Var-XXVIII" restart="true" label="Var-XVIII">
                      <expansion xml:id="expansion-Var-XXVIII-default" plist="#Var-XXVIII-A #Var-XXVIII-A #Var-XXVIII-B #Var-XXVIII-B1 #Var-XXVIII-B #Var-XXVIII-B2"/>
                      <expansion xml:id="expansion-Var-XXVIII-minimal" plist="#Var-XXVIII-A #Var-XXVIII-B #Var-XXVIII-B2"/>
+                     <scoreDef xml:id="x27f94b9e-d4d7-45e6-b78a-060d65a64819">
+                        <staffGrp xml:id="x77a82a27-9726-4d0b-8d71-e902994e241b" bar.thru="true" symbol="brace">
+                           <label xml:id="xf1de56f1-957c-498a-bf8a-4bc03ceef67a">
+                              <rend xml:id="xe6d1bb63-4510-41d2-a0ec-79c339503e99" fontsize="120.00%" fontweight="bold">VAR. XXVIII</rend>
+                           </label>
+                           <staffDef xml:id="xc1c7f128-a594-4b93-a4c7-386a2eb53925" lines="5" n="1">
+                              <keySig xml:id="xa69fa9a3-849f-4924-9dba-3887a7c40fdf"/>
+                              <clef xml:id="x2678984b-f764-41d4-8cf2-9a319f660c10" shape="G" line="2"/>
+                              <meterSig xml:id="x567c00dd-85bf-4430-bd50-12b729190eff" count="2" unit="4"/>
+                           </staffDef>
+                           <staffDef xml:id="x80cbcb56-b8a1-4394-a7cf-fc67dabd6a13" lines="5" n="2">
+                              <keySig xml:id="x1768d624-c0a8-4b8f-bb66-ef8b8ec1024d"/>
+                              <clef xml:id="x96ad8bd6-ff24-4040-89eb-564df48ec52c" shape="F" line="4"/>
+                              <meterSig xml:id="x5e8b32c8-85f8-4551-9c8a-64db6c4d99c0" count="2" unit="4"/>
+                           </staffDef>
+                        </staffGrp>
+                     </scoreDef>
                      <section xml:id="Var-XXVIII-A">
                         <scoreDef xml:id="scoredef-0000001562766111">
                            <meterSig xml:id="msig-0000001508874624" count="2" unit="4"/>
@@ -41096,9 +41138,6 @@
                               </layer>
                            </staff>
                            <tempo xml:id="tempo-0000000041724606" place="above" staff="1" tstamp="1.000000">Allegro.</tempo>
-                           <tempo xml:id="tempo-0000000253825635" midi.bpm="137" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000001459733563" fontsize="125.00%" fontweight="bold" halign="center">VAR. XXVIII.</rend>
-                           </tempo>
                            <dynam xml:id="dynam-0000000038515005" place="between" staff="1 2" startid="#note-0000000323540933">sf</dynam>
                         </measure>
                         <measure xml:id="measure-0000000231532166" n="874">
@@ -42808,18 +42847,21 @@
                      </ending>
                      <sb xml:id="sb-0000000248923063"/>
                   </section>
-                  <section xml:id="Var-XXIX">
-                     <scoreDef xml:id="scoredef-0000000203080655">
-                        <staffGrp xml:id="staffgrp-0000000233972701">
-                           <staffDef xml:id="staffdef-0000000997787764" n="1">
-                              <keySig xml:id="keysig-0000001295819709" sig="3f"/>
-                              <meterSig xml:id="msig-0000000521361920" count="3" unit="4"/>
-                              <clef xml:id="clef-0000001732690535" line="2" shape="G"/>
+                  <section xml:id="Var-XXIX" restart="true" label="Var-XXIX">
+                     <scoreDef xml:id="xc18326fb-0595-409c-8517-fa3154f92128">
+                        <staffGrp xml:id="x1e49a4df-f41c-479e-b046-5b691e7f2f2a" bar.thru="true" symbol="brace">
+                           <label xml:id="xa771b8c6-bfb5-402f-b4c9-7de9beed487d">
+                              <rend xml:id="x5bb062b7-9c7e-4ab5-bf20-9973839291a1" fontsize="120.00%" fontweight="bold">VAR. XXIX</rend>
+                           </label>
+                           <staffDef xml:id="xe5a4568a-1b19-4e05-bc73-f396df66c406" lines="5" n="1">
+                              <keySig xml:id="x51c664f6-46ee-4852-8d72-4acc3288448a" sig="3f"/>
+                              <clef xml:id="x67009ad7-a298-4d11-ac14-67a85dfca051" shape="G" line="2"/>
+                              <meterSig xml:id="xf0b4a1a0-f3d7-45a7-991d-a0dfaee8eee5" count="3" unit="4"/>
                            </staffDef>
-                           <staffDef xml:id="staffdef-0000001003976289" n="2">
-                              <keySig xml:id="keysig-0000001295819702" sig="3f"/>
-                              <meterSig xml:id="msig-0000000521361921" count="3" unit="4"/>
-                              <clef xml:id="clef-0000001732690537" line="4" shape="F"/>
+                           <staffDef xml:id="xf34d3018-830b-41de-aea4-7f710cfbf4ca" lines="5" n="2">
+                              <keySig xml:id="xccd079fe-813e-498a-8d76-70fded4d8bfc" sig="3f"/>
+                              <clef xml:id="xa4b35714-1f65-4ec7-a0e6-62ed1dd1a316" shape="F" line="4"/>
+                              <meterSig xml:id="x3f655148-ec91-4847-aba4-0151f7825730" count="3" unit="4"/>
                            </staffDef>
                         </staffGrp>
                      </scoreDef>
@@ -42867,9 +42909,6 @@
                         </staff>
                         <dynam xml:id="dynam-0000001571776276" tstamp="1.000000" vgrp="40" place="between" staff="1 2">p mezza voce</dynam>
                         <tempo xml:id="tempo-0000000091205422" mm="48" mm.unit="4" place="above" startid="#note-0000000298483681">Adagio ma non troppo.</tempo>
-                        <tempo xml:id="tempo-0000001357482578" place="above" staff="1" tstamp="1.000000">
-                           <rend xml:id="rend-0000000447258912" fontsize="125.00%" fontweight="bold" halign="center">VAR. XXIX.</rend>
-                        </tempo>
                         <slur xml:id="slur-0000000640985206" curvedir="below" endid="#note-0000000338802950" startid="#note-0000000515174631"/>
                         <slur xml:id="slur-0000001318736880" curvedir="below" endid="#note-0000000556596551" startid="#note-0000001944114296"/>
                         <slur xml:id="slur-0000001755433635" curvedir="above" endid="#note-0000001496802221" startid="#note-0000000235523919"/>
@@ -43567,13 +43606,27 @@
                      </measure>
                      <sb xml:id="sb-0000001454973193"/>
                   </section>
-                  <section xml:id="Var-XXX">
+                  <section xml:id="Var-XXX" restart="true" label="Var-XXX">
                      <expansion xml:id="expansion-Var-XXX-default" plist="#Var-XXX-A #Var-XXX-A #Var-XXX-B #Var-XXX-B1 #Var-XXX-B #Var-XXX-B2"/>
                      <expansion xml:id="expansion-Var-XXX-minimal" plist="#Var-XXX-A #Var-XXX-B #Var-XXX-B2"/>
+                     <scoreDef xml:id="xb9bd836a-8e78-4449-8586-2de786ce16ff">
+                        <staffGrp xml:id="xad0c4c3f-b0a7-47a6-baf5-e2dfe2d21298" bar.thru="true" symbol="brace">
+                           <label xml:id="x2d23268b-94cb-4006-be5e-b9f3b52e5cba">
+                              <rend xml:id="x2a60d0fb-ef22-44ff-be40-36a85d74e837" fontsize="120.00%" fontweight="bold">VAR. XXX</rend>
+                           </label>
+                           <staffDef xml:id="x88600e99-ae06-43ab-ba7b-4ba7d661c8cd" lines="5" n="1">
+                              <keySig xml:id="x64958a96-7e7c-4f8b-b5e5-58296f726f3d"/>
+                              <clef xml:id="x3c4b652e-04a4-4300-a04e-75b77bc5946f" shape="G" line="2"/>
+                              <meterSig xml:id="xe05b14a1-e089-43c9-bb38-1cf30807f0a6" count="4" unit="4" sym="common"/>
+                           </staffDef>
+                           <staffDef xml:id="xc77bf70d-98f4-442b-b1f3-3a3dd621b3c8" lines="5" n="2">
+                              <keySig xml:id="xa1dc3602-f418-47dd-b981-791f0a51d392"/>
+                              <clef xml:id="xa5fa4bb2-0cd8-4eb5-b7a0-3b647d72a1a4" shape="F" line="4"/>
+                              <meterSig xml:id="x64a83074-ad1c-411c-a786-1c9d26fbba29" count="4" unit="4" sym="common"/>
+                           </staffDef>
+                        </staffGrp>
+                     </scoreDef>
                      <section xml:id="Var-XXX-A">
-                        <scoreDef xml:id="scoredef-0000002089096381">
-                           <meterSig xml:id="msig-0000001194606577" count="4" sym="common" unit="4"/>
-                        </scoreDef>
                         <measure xml:id="measure-0000000546277432" metcon="false" n="918">
                            <staff xml:id="staff-0000000918474698" n="1">
                               <layer xml:id="layer-0000001981190973" n="1">
@@ -43589,9 +43642,6 @@
                               </layer>
                            </staff>
                            <tempo xml:id="tempo-0000000419050761" mm="66" mm.unit="4" place="above" staff="1" tstamp="1.000000">Andante, sempre cantabile.</tempo>
-                           <tempo xml:id="tempo-0000001127604071" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000001732097342" fontsize="125.00%" fontweight="bold" halign="center">VAR. XXX.</rend>
-                           </tempo>
                            <dir xml:id="dir-0000000307496405" place="above" staff="2" tstamp="1.000000" vgrp="208">sempre ligato</dir>
                            <dir xml:id="dir-0000002024313650" place="below" staff="2" tstamp="1.000000" vgrp="40">una corda</dir>
                            <slur xml:id="slur-0000001780814665" curvedir="above" endid="#note-0000001666195994" startid="#note-0000001101332883"/>
