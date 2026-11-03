@@ -73,74 +73,60 @@
    <music xml:id="m0bso2d">
       <body xml:id="buz9ukx2">
          <mdiv xml:id="Op120">
-            <score xml:id="score-0000001805061470">
-               <scoreDef xml:id="scoredef-0000001086467970">
-                  <pgHead xml:id="pghead-0000002045266725" func="first">
-                     <rend xml:id="rend-0000000423485031" fontsize="100.00%" halign="left" valign="middle">Beethovens Werke.<lb xml:id="lb-0000000931946803"/>
-                     </rend>
-                     <rend xml:id="rend-0000000423485032" fontsize="100.00%" halign="right" valign="middle">Serie 17. <abbr xml:id="abbr-0000000045878681" type="superscription">No.</abbr> 165.<lb xml:id="lb-0000000931946807"/>
-                     </rend>
-                     <rend xml:id="rend-0000000027109546" fontweight="bold" halign="center" valign="middle">
-                        <rend xml:id="rend-0000002081006402" fontsize="200.00%">33 VERÄNDERUNGEN</rend>
-                        <rend xml:id="rend-0000002081006948" fontsize="20.00%">
-                           <lb xml:id="lb-0000001190255347"/> <lb xml:id="lb-0000001438721318"/>
-                        </rend>
-                        <rend xml:id="rend-0000001223265768" fontsize="115.00%" halign="center" valign="middle">
-                           <lb xml:id="lb-0000000931946801"/>über einen Walzer von A. Diabelli</rend>
-                        <rend xml:id="rend-0000002081006949" fontsize="20.00%">
-                           <lb xml:id="lb-0000001190255348"/> <lb xml:id="lb-0000001438721319"/>
-                        </rend>
-                        <rend xml:id="rend-0000001223265665" fontsize="115.00%" halign="center" valign="middle">
-                           <lb xml:id="lb-00000009319698543"/>für das Pianoforte</rend>
-                        <rend xml:id="rend-0000001631646837" fontsize="100.00%" halign="center" valign="middle">
-                           <lb xml:id="lb-0000000495749949"/>von</rend>
-                        <rend xml:id="rend-0000001223265771" fontsize="200.00%" halign="center" valign="middle">
-                           <lb xml:id="lb-0000000931946442"/>L.<rend xml:id="rend-0000000420181481" fontsize="75.00%"> VAN</rend> BEETHOVEN.<lb xml:id="lb-0000000931946802"/>
-                        </rend>
-                        <rend xml:id="rend-0000002081006989" fontsize="20.00%">
-                           <lb xml:id="lb-0000000072357432"/>
-                        </rend>
-                        <rend xml:id="rend-0000000481656544" fontsize="100.00%" halign="center" valign="middle">Frau Antonia von Brentano gewidmet.</rend>
-                        <rend xml:id="rend-0000002081006546" fontsize="20.00%">
-                           <lb xml:id="lb-0000000072357942"/>
-                        </rend>
-                        <rend xml:id="rend-0000002081005439" fontsize="20.00%">
-                           <lb xml:id="lb-0000000072357948"/>
-                        </rend>
-                        <rend xml:id="rend-0000001223265664" fontsize="115.00%" halign="center" valign="middle">
-                           <lb xml:id="lb-0000000931969800"/>Op. 120.</rend>
-                     </rend>
-                  </pgHead>
-                  <pgFoot xml:id="pgfoot-0000000472217220" func="first">
-                     <rend xml:id="rend-0000000443485032" fontsize="75.00%" halign="left" valign="middle">Original-Verleger: C. A. Spina in Wien.<lb xml:id="lb-0000000931946844"/>
-                     </rend>
-                     <rend xml:id="rend-0000000423485035" fontsize="75.00%" halign="right" valign="middle">Stich und Druck von Breitkopf &amp; Härtel in Leipzig.<lb xml:id="lb-0000000931946804"/>
-                     </rend>
-                     <rend xml:id="rend-0000001325220316" fontsize="100.00%" halign="center">B.165.</rend>
-                  </pgFoot>
-                  <pgFoot xml:id="pgfoot2-0000001694763880" func="all">
-                     <rend xml:id="rend-0000001820920999" halign="center" valign="bottom">
-                        <rend xml:id="rend-0000000429776796" fontsize="100.00%">B.165.</rend>
-                     </rend>
-                  </pgFoot>
-                  <staffGrp xml:id="staffgrp-0000000664100862" bar.thru="true" symbol="brace">
-                     <staffDef xml:id="staffdef-0000001326781485" lines="5" n="1">
-                        <instrDef xml:id="instrdef-0000001915352099" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
-                     </staffDef>
-                     <staffDef xml:id="staffdef-0000000158473821" lines="5" n="2">
-                        <instrDef xml:id="instrdef-0000000782878909" midi.channel="1" midi.instrnum="0" midi.volume="78.00%"/>
-                     </staffDef>
-                  </staffGrp>
-               </scoreDef>
-               <section xml:id="Diabelli-Variationen">
-                  <expansion xml:id="expansion-default"
-                             plist="#expansion-Tema-default #expansion-Var-I-default #expansion-Var-II-default #expansion-Var-III-default #expansion-Var-IV-default #expansion-Var-V-default #expansion-Var-VI-default #expansion-Var-VII-default #expansion-Var-VIII-default #expansion-Var-IX-default #Var-X #expansion-Var-XI-default #Var-XII #expansion-Var-XIII-default #expansion-Var-XIV-default #expansion-Var-XV-default #expansion-Var-XVI-default #expansion-Var-XVII-default #expansion-Var-XVIII-default #expansion-Var-XIX-default #Var-XX #expansion-Var-XXI-default #expansion-Var-XXII-default #expansion-Var-XXIII-default #expansion-Var-XXIV-default #expansion-Var-XXV-default #expansion-Var-XXVI-default #expansion-Var-XXVII-default #expansion-Var-XXVIII-default #Var-XXIX #expansion-Var-XXX-default #expansion-Var-XXXI-default #Var-XXXII #expansion-Var-XXXIII-default"/>
-                  <expansion xml:id="expansion-minimal"
-                             plist="#expansion-Tema-minimal #expansion-Var-I-minimal #expansion-Var-II-minimal #expansion-Var-III-minimal #expansion-Var-IV-minimal #expansion-Var-V-minimal #expansion-Var-VI-minimal #expansion-Var-VII-minimal #expansion-Var-VIII-minimal #expansion-Var-IX-minimal #Var-X #expansion-Var-XI-minimal #Var-XII #expansion-Var-XIII-minimal #expansion-Var-XIV-minimal #expansion-Var-XV-minimal #expansion-Var-XVI-minimal #expansion-Var-XVII-minimal #expansion-Var-XVIII-minimal #expansion-Var-XIX-minimal #Var-XX #expansion-Var-XXI-minimal #expansion-Var-XXII-minimal #expansion-Var-XXIII-minimal #expansion-Var-XXIV-minimal #expansion-Var-XXV-minimal #expansion-Var-XXVI-minimal #expansion-Var-XXVII-minimal #expansion-Var-XXVIII-minimal #Var-XXIX #expansion-Var-XXX-minimal #expansion-Var-XXXI-minimal #Var-XXXII #expansion-Var-XXXIII-minimal"/>
+            <mdiv>
+               <score>
                   <section xml:id="Tema" restart="true" label="Tema">
                      <expansion xml:id="expansion-Tema-default" plist="#Tema-A #Tema-A #Tema-B #Tema-B"/>
                      <expansion xml:id="expansion-Tema-minimal" plist="#Tema-A #Tema-B"/>
                      <scoreDef xml:id="x8ec22bcf-b4ed-48e4-b7b4-abdf7f61e041">
+                        <pgHead xml:id="pghead-0000002045266725" func="first">
+                           <rend xml:id="rend-0000000423485031" fontsize="100.00%" halign="left" valign="middle">Beethovens Werke.<lb xml:id="lb-0000000931946803"/>
+                           </rend>
+                           <rend xml:id="rend-0000000423485032" fontsize="100.00%" halign="right" valign="middle">Serie 17. <abbr xml:id="abbr-0000000045878681" type="superscription">No.</abbr> 165.<lb xml:id="lb-0000000931946807"/>
+                           </rend>
+                           <rend xml:id="rend-0000000027109546" fontweight="bold" halign="center" valign="middle">
+                              <rend xml:id="rend-0000002081006402" fontsize="200.00%">33 VERÄNDERUNGEN</rend>
+                              <rend xml:id="rend-0000002081006948" fontsize="20.00%">
+                                 <lb xml:id="lb-0000001190255347"/> <lb xml:id="lb-0000001438721318"/>
+                              </rend>
+                              <rend xml:id="rend-0000001223265768" fontsize="115.00%" halign="center" valign="middle">
+                                 <lb xml:id="lb-0000000931946801"/>über einen Walzer von A. Diabelli</rend>
+                              <rend xml:id="rend-0000002081006949" fontsize="20.00%">
+                                 <lb xml:id="lb-0000001190255348"/> <lb xml:id="lb-0000001438721319"/>
+                              </rend>
+                              <rend xml:id="rend-0000001223265665" fontsize="115.00%" halign="center" valign="middle">
+                                 <lb xml:id="lb-00000009319698543"/>für das Pianoforte</rend>
+                              <rend xml:id="rend-0000001631646837" fontsize="100.00%" halign="center" valign="middle">
+                                 <lb xml:id="lb-0000000495749949"/>von</rend>
+                              <rend xml:id="rend-0000001223265771" fontsize="200.00%" halign="center" valign="middle">
+                                 <lb xml:id="lb-0000000931946442"/>L.<rend xml:id="rend-0000000420181481" fontsize="75.00%"> VAN</rend> BEETHOVEN.<lb xml:id="lb-0000000931946802"/>
+                              </rend>
+                              <rend xml:id="rend-0000002081006989" fontsize="20.00%">
+                                 <lb xml:id="lb-0000000072357432"/>
+                              </rend>
+                              <rend xml:id="rend-0000000481656544" fontsize="100.00%" halign="center" valign="middle">Frau Antonia von Brentano gewidmet.</rend>
+                              <rend xml:id="rend-0000002081006546" fontsize="20.00%">
+                                 <lb xml:id="lb-0000000072357942"/>
+                              </rend>
+                              <rend xml:id="rend-0000002081005439" fontsize="20.00%">
+                                 <lb xml:id="lb-0000000072357948"/>
+                              </rend>
+                              <rend xml:id="rend-0000001223265664" fontsize="115.00%" halign="center" valign="middle">
+                                 <lb xml:id="lb-0000000931969800"/>Op. 120.</rend>
+                           </rend>
+                        </pgHead>
+                        <pgFoot xml:id="pgfoot-0000000472217220" func="first">
+                           <rend xml:id="rend-0000000443485032" fontsize="75.00%" halign="left" valign="middle">Original-Verleger: C. A. Spina in Wien.<lb xml:id="lb-0000000931946844"/>
+                           </rend>
+                           <rend xml:id="rend-0000000423485035" fontsize="75.00%" halign="right" valign="middle">Stich und Druck von Breitkopf &amp; Härtel in Leipzig.<lb xml:id="lb-0000000931946804"/>
+                           </rend>
+                           <rend xml:id="rend-0000001325220316" fontsize="100.00%" halign="center">B.165.</rend>
+                        </pgFoot>
+                        <pgFoot xml:id="pgfoot2-0000001694763880" func="all">
+                           <rend xml:id="rend-0000001820920999" halign="center" valign="bottom">
+                              <rend xml:id="rend-0000000429776796" fontsize="100.00%">B.165.</rend>
+                           </rend>
+                        </pgFoot>
                         <staffGrp xml:id="xz8f28d0a-c892-434d-957d-820d9ed550c6" bar.thru="true" symbol="brace">
                            <label xml:id="x263afff9-5a6c-4f82-82c5-c6c9ad3dd2d7">
                               <rend xml:id="xf9be83cf-285a-4155-9ee1-a380dcda5040" fontsize="120.00%" fontweight="bold">TEMA.</rend>
@@ -1361,6 +1347,10 @@
                         <pb xml:id="pb-0000001678665958"/>
                      </section>
                   </section>
+               </score>
+            </mdiv>
+            <mdiv>
+               <score>
                   <section xml:id="Var-I" restart="true" label="Var-I">
                      <expansion xml:id="expansion-Var-I-default" plist="#Var-I-A #Var-I-A #Var-I-B #Var-I-B1 #Var-I-B #Var-I-B2"/>
                      <expansion xml:id="expansion-Var-I-minimal" plist="#Var-I-A #Var-I-B #Var-I-B2"/>
@@ -2915,6 +2905,10 @@
                      </ending>
                      <sb xml:id="sb-0000001965185642"/>
                   </section>
+               </score>
+            </mdiv>
+            <mdiv>
+               <score>
                   <section xml:id="Var-II" restart="true" label="Var-II">
                      <expansion xml:id="expansion-Var-II-default" plist="#Var-II-A #Var-II-B #Var-II-B1 #Var-II-B #Var-II-B2"/>
                      <expansion xml:id="expansion-Var-II-minimal" plist="#Var-II-A #Var-II-B #Var-II-B2"/>
@@ -5109,7 +5103,7 @@
                                  </note>
                               </layer>
                            </staff>
-                           <hairpin xml:id="hairpin-0000001116449532" form="dim" place="between" staff="1 2"  tstamp="2.000000" tstamp2="1m+2.0000" vgrp="85"/>
+                           <hairpin xml:id="hairpin-0000001116449532" form="dim" place="between" staff="1 2" tstamp="2.000000" tstamp2="1m+2.0000" vgrp="85"/>
                            <tie xml:id="tie-0000000027387074" curvedir="above" endid="#note-0000000248079146" startid="#note-0000001602660485"/>
                            <slur xml:id="slur-0000000733052260" curvedir="above" endid="#note-0000001325307863" startid="#note-0000001602660485"/>
                         </measure>
@@ -10482,7 +10476,7 @@
                                  <rest xml:id="rest-0000000939297445" dur="8"/>
                               </layer>
                            </staff>
-                           <hairpin xml:id="hairpin-0000001132206347" form="dim" place="between" staff="1 2"  tstamp="3.200000" tstamp2="0m+3.7500" vgrp="55"/>
+                           <hairpin xml:id="hairpin-0000001132206347" form="dim" place="between" staff="1 2" tstamp="3.200000" tstamp2="0m+3.7500" vgrp="55"/>
                            <trill xml:id="trill-0000000601328860" staff="2" startid="#note-0000000391916087"/>
                            <slur xml:id="slur-0000000476107238" curvedir="below" endid="#note-0000002079574560" startid="#note-0000000391916087"/>
                         </measure>
@@ -57217,8 +57211,8 @@
                         </measure>
                      </section>
                   </section>
-               </section>
-            </score>
+               </score>
+            </mdiv>
          </mdiv>
       </body>
    </music>
