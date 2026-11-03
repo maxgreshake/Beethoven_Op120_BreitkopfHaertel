@@ -124,13 +124,11 @@
                      </rend>
                   </pgFoot>
                   <staffGrp xml:id="staffgrp-0000000664100862" bar.thru="true" symbol="brace">
-                     <staffDef xml:id="staffdef-0000001326781485" clef.line="2" clef.shape="G" lines="5" n="1">
+                     <staffDef xml:id="staffdef-0000001326781485" lines="5" n="1">
                         <instrDef xml:id="instrdef-0000001915352099" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
-                        <meterSig xml:id="mohqdnm2" count="3" unit="4"/>
                      </staffDef>
-                     <staffDef xml:id="staffdef-0000000158473821" clef.line="4" clef.shape="F" lines="5" n="2">
+                     <staffDef xml:id="staffdef-0000000158473821" lines="5" n="2">
                         <instrDef xml:id="instrdef-0000000782878909" midi.channel="1" midi.instrnum="0" midi.volume="78.00%"/>
-                        <meterSig xml:id="mxi0ims2" count="3" unit="4"/>
                      </staffDef>
                   </staffGrp>
                </scoreDef>
@@ -139,9 +137,26 @@
                              plist="#expansion-Tema-default #expansion-Var-I-default #expansion-Var-II-default #expansion-Var-III-default #expansion-Var-IV-default #expansion-Var-V-default #expansion-Var-VI-default #expansion-Var-VII-default #expansion-Var-VIII-default #expansion-Var-IX-default #Var-X #expansion-Var-XI-default #Var-XII #expansion-Var-XIII-default #expansion-Var-XIV-default #expansion-Var-XV-default #expansion-Var-XVI-default #expansion-Var-XVII-default #expansion-Var-XVIII-default #expansion-Var-XIX-default #Var-XX #expansion-Var-XXI-default #expansion-Var-XXII-default #expansion-Var-XXIII-default #expansion-Var-XXIV-default #expansion-Var-XXV-default #expansion-Var-XXVI-default #expansion-Var-XXVII-default #expansion-Var-XXVIII-default #Var-XXIX #expansion-Var-XXX-default #expansion-Var-XXXI-default #Var-XXXII #expansion-Var-XXXIII-default"/>
                   <expansion xml:id="expansion-minimal"
                              plist="#expansion-Tema-minimal #expansion-Var-I-minimal #expansion-Var-II-minimal #expansion-Var-III-minimal #expansion-Var-IV-minimal #expansion-Var-V-minimal #expansion-Var-VI-minimal #expansion-Var-VII-minimal #expansion-Var-VIII-minimal #expansion-Var-IX-minimal #Var-X #expansion-Var-XI-minimal #Var-XII #expansion-Var-XIII-minimal #expansion-Var-XIV-minimal #expansion-Var-XV-minimal #expansion-Var-XVI-minimal #expansion-Var-XVII-minimal #expansion-Var-XVIII-minimal #expansion-Var-XIX-minimal #Var-XX #expansion-Var-XXI-minimal #expansion-Var-XXII-minimal #expansion-Var-XXIII-minimal #expansion-Var-XXIV-minimal #expansion-Var-XXV-minimal #expansion-Var-XXVI-minimal #expansion-Var-XXVII-minimal #expansion-Var-XXVIII-minimal #Var-XXIX #expansion-Var-XXX-minimal #expansion-Var-XXXI-minimal #Var-XXXII #expansion-Var-XXXIII-minimal"/>
-                  <section xml:id="Tema">
+                  <section xml:id="Tema" restart="true" label="Tema">
                      <expansion xml:id="expansion-Tema-default" plist="#Tema-A #Tema-A #Tema-B #Tema-B"/>
                      <expansion xml:id="expansion-Tema-minimal" plist="#Tema-A #Tema-B"/>
+                     <scoreDef xml:id="x8ec22bcf-b4ed-48e4-b7b4-abdf7f61e041">
+                        <staffGrp xml:id="xz8f28d0a-c892-434d-957d-820d9ed550c6" bar.thru="true" symbol="brace">
+                           <label xml:id="x263afff9-5a6c-4f82-82c5-c6c9ad3dd2d7">
+                              <rend xml:id="xf9be83cf-285a-4155-9ee1-a380dcda5040" fontsize="120.00%" fontweight="bold">TEMA.</rend>
+                           </label>
+                           <staffDef xml:id="x296deb10-ba62-4a1f-85c4-ef885fbe6e0b" lines="5" n="1">
+                              <keySig xml:id="xbd8ae906-7b71-4011-9c1f-b20d74325b88"/>
+                              <clef xml:id="xui4b46ad-2088-482b-b121-60ffc509d3df" shape="G" line="2"/>
+                              <meterSig xml:id="xa6b87c5b-f022-4dcc-a4b4-5b82ca85123a" count="3" unit="4"/>
+                           </staffDef>
+                           <staffDef xml:id="xc0aa70a7-4284-42e6-8f96-769ef1107c50" lines="5" n="2">
+                              <keySig xml:id="x03aeb4df-f029-4474-a222-8b179a0376fa"/>
+                              <clef xml:id="x5656415e-5195-4987-afd3-b79832d01711" shape="F" line="4"/>
+                              <meterSig xml:id="x7567fc57-56c5-45c4-84cd-71a1d21f0e40" count="3" unit="4"/>
+                           </staffDef>
+                        </staffGrp>
+                     </scoreDef>
                      <section xml:id="Tema-A">
                         <measure xml:id="measure-0000002031024709" metcon="false" n="0">
                            <staff xml:id="staff-0000002110088879" n="1">
@@ -160,9 +175,6 @@
                            </staff>
                            <tempo xml:id="tempo-0000000401493119" mm="88" mm.dots="1" mm.unit="2" place="above" staff="1" tstamp="1.000000">
                               <rend xml:id="rend-0000000594748778" fontweight="bold">Vivace.</rend>
-                           </tempo>
-                           <tempo xml:id="tempo-0000001161968648" place="above" staff="1" tstamp="1.000000">
-                              <rend xml:id="rend-0000002138264765" fontsize="125.00%" fontstyle="normal" fontweight="bold" halign="center">Tema.</rend>
                            </tempo>
                            <dynam xml:id="dynam-0000001629877836" tstamp="1.000000" vgrp="40" place="between" staff="1 2">p</dynam>
                            <slur xml:id="slur-0000001074828540" curvedir="below" endid="#note-0000001685234964" startid="#note-0000000879015579"/>
@@ -53234,22 +53246,22 @@
                      <expansion xml:id="expansion-Var-XXXIII-default" plist="#Var-XXXIII-A #Var-XXXIII-A1 #Var-XXXIII-A #Var-XXXIII-A2 #Var-XXXIII-B #Var-XXXIII-B1 #Var-XXXIII-B #Var-XXXIII-B2 #Var-XXXIII-C"/>
                      <expansion xml:id="expansion-Var-XXXIII-minimal" plist="#Var-XXXIII-A #Var-XXXIII-A2 #Var-XXXIII-B #Var-XXXIII-B2 #Var-XXXIII-C"/>
                      <scoreDef xml:id="x3846d608-3f24-4d3f-86bd-e91f4762b96c">
-                           <staffGrp xml:id="xd0fc2879-9ab0-4488-a848-682dd5131289" bar.thru="true" symbol="brace">
-                              <label xml:id="x83be48b6-087f-4b96-b0ff-c5b08e2cf9e3">
-                                 <rend xml:id="x1abf37d9-3c9c-4caf-8236-a222233ffb03" fontsize="120.00%" fontweight="bold">VAR. XXXIII</rend>
-                              </label>
-                              <staffDef xml:id="x6c9aa62f-61ec-488b-a87b-dc8796f82910" lines="5" n="1">
-                                 <keySig xml:id="x17b83232-5f00-47fc-96d5-876c26ce9512"/>
-                                 <clef xml:id="xff6c1a3b-1441-4fab-a0d2-8b492e255ffb" shape="G" line="2"/>
-                                 <meterSig xml:id="xd125a2f9-ae27-45f2-9471-381caec83036" count="3" unit="4"/>
-                              </staffDef>
-                              <staffDef xml:id="xbeb1ddb1-887f-4af6-a604-eb012e058664" lines="5" n="2">
-                                 <keySig xml:id="x37f85cbe-a9f3-4ff4-bb76-30a4fdf38d92"/>
-                                 <clef xml:id="xb41b920a-175b-4937-b60c-2685e298220a" shape="F" line="4"/>
-                                 <meterSig xml:id="x9d772fd6-52f1-4438-b806-73e487193579" count="3" unit="4"/>
-                              </staffDef>
-                           </staffGrp>
-                        </scoreDef>
+                        <staffGrp xml:id="xd0fc2879-9ab0-4488-a848-682dd5131289" bar.thru="true" symbol="brace">
+                           <label xml:id="x83be48b6-087f-4b96-b0ff-c5b08e2cf9e3">
+                              <rend xml:id="x1abf37d9-3c9c-4caf-8236-a222233ffb03" fontsize="120.00%" fontweight="bold">VAR. XXXIII</rend>
+                           </label>
+                           <staffDef xml:id="x6c9aa62f-61ec-488b-a87b-dc8796f82910" lines="5" n="1">
+                              <keySig xml:id="x17b83232-5f00-47fc-96d5-876c26ce9512"/>
+                              <clef xml:id="xff6c1a3b-1441-4fab-a0d2-8b492e255ffb" shape="G" line="2"/>
+                              <meterSig xml:id="xd125a2f9-ae27-45f2-9471-381caec83036" count="3" unit="4"/>
+                           </staffDef>
+                           <staffDef xml:id="xbeb1ddb1-887f-4af6-a604-eb012e058664" lines="5" n="2">
+                              <keySig xml:id="x37f85cbe-a9f3-4ff4-bb76-30a4fdf38d92"/>
+                              <clef xml:id="xb41b920a-175b-4937-b60c-2685e298220a" shape="F" line="4"/>
+                              <meterSig xml:id="x9d772fd6-52f1-4438-b806-73e487193579" count="3" unit="4"/>
+                           </staffDef>
+                        </staffGrp>
+                     </scoreDef>
                      <section xml:id="Var-XXXIII-A">
                         <measure xml:id="measure-0000000922709698" metcon="false" n="1113">
                            <staff xml:id="staff-0000000649455468" n="1">
